@@ -1,0 +1,5 @@
+# temporary files produced by Hakyll
+_cache/
+# libraries and generated binaries
+cabal-dev/*
+dist/*
