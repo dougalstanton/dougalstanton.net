@@ -53,6 +53,9 @@ main = hakyllWith config $ do
                 >>= relativizeUrls
 
 
+        match "favicon.ico" $ do
+            route idRoute
+            compile copyFileCompiler
         newfile "CNAME" "dougalstanton.net"
 
 newfile :: Identifier -> String -> Rules ()
