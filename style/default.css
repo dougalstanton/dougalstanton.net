@@ -2,23 +2,23 @@ body
 {
     color:black;
     font-size:16px;
-    margin:0px auto 0px auto;
-    width:40em;
     font-family:'times new roman', 'times roman', 'times', serif;
 }
-ul#page_menu
+div#blog
+{
+    margin:0px auto 0px auto;
+    width: 550px;
+}
+menu#page_menu
 {
     width: 20em;
     margin: auto;
-    list-style-type: none;
-}
-ul#page_menu li
-{
-    display: inline;
+    padding: 0;
     color: #555;
     text-transform: uppercase;
+    text-align: center;
 }
-ul#page_menu li a
+menu#page_menu a
 {
     text-decoration: none;
     color: #555;
