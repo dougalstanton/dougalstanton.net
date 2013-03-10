@@ -12,6 +12,14 @@ config = defaultConfiguration
           , providerDirectory = "/home/dougal/projects/dougalstanton.net"
           }
 
+feed = FeedConfiguration
+        { feedTitle = "Looking Out To Sea"
+        , feedDescription = "A blog of sorts, unsorted."
+        , feedAuthorName = "Dougal Stanton"
+        , feedAuthorEmail = "blog@dougalstanton.net"
+        , feedRoot = "http://dougalstanton.net"
+        }
+
 main :: IO ()
 main = hakyllWith config $ do
         match "templates/*" $
@@ -31,6 +39,7 @@ main = hakyllWith config $ do
         match "posts/*" $ do
             route   $ setExtension "html"
             compile $ pandocCompiler
+                >>= saveSnapshot "content"
                 >>= loadAndApplyTemplate "templates/page.html" pageCtx
                 >>= loadAndApplyTemplate "templates/default.html" defaultContext
                 >>= relativizeUrls
@@ -52,6 +61,8 @@ main = hakyllWith config $ do
                 >>= loadAndApplyTemplate "templates/default.html" (ctx <> defaultContext)
                 >>= relativizeUrls
 
+        mkFeed "atom.xml" renderAtom
+        mkFeed "rss.xml" renderRss
 
         match "favicon.ico" $ do
             route idRoute
@@ -62,6 +73,13 @@ newfile :: Identifier -> String -> Rules ()
 newfile name content = create [name] $ do
                         route idRoute
                         compile (makeItem content)
+
+mkFeed name renderer = create [name] $ do
+    route idRoute
+    compile $ do
+        let feedCtx = pageCtx <> bodyField "description"
+        posts <- take 10 . recentFirst <$> loadAllSnapshots "posts/*" "content"
+        renderer feed feedCtx posts
                 
 mkRecentItems = do
     items <- take 20 . recentFirst <$> loadAll "posts/*"
