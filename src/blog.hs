@@ -10,6 +10,8 @@ config = defaultConfiguration
           { deployCommand = "/home/dougal/bin/deploy_blog"
           , destinationDirectory = "/home/dougal/blog/_local"
           , providerDirectory = "/home/dougal/projects/dougalstanton.net"
+          , storeDirectory = "/home/dougal/projects/dougalstanton.net/_cache"
+          , tmpDirectory = "/home/dougal/projects/dougalstanton.net/_cache/tmp"
           }
 
 feed = FeedConfiguration
