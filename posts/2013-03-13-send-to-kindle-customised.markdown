@@ -28,7 +28,7 @@ was cleanup:
 
 ~~~~bash
 $ wget http://okmij.org/ftp/ML/generalization.html
-$ pandoc -i generalization.html -o original.markdown
+$ pandoc generalization.html -o original.markdown
 ~~~~
 
 In Markdown format the document has lost none of the content but
@@ -48,7 +48,7 @@ Next I tried EPub format in the hope it would be more faithfully
 converted:
 
 ~~~~bash
-$ pandoc -S -i original.markdown -o final.epub
+$ pandoc -S original.markdown -o final.epub
 ~~~~
 
 But despite what I had read on *some website somewhere*, Amazon
