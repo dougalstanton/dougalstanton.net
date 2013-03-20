@@ -2,3 +2,10 @@
 title: Projects
 ---
 Some of my projects, under current development, "finished" or defunct.
+
+*   [Capoeira song lyrics](/pages/capoeira-songs.html)
+*   [GitHub repository](http://github.com/dougalstanton)
+
+I still have a number of projects which were online before but for now
+just live on my computer, waiting for the disk to catastrophically
+crash. I should probably do something about that.
