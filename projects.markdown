@@ -3,6 +3,7 @@ title: Projects
 ---
 Some of my projects, under current development, "finished" or defunct.
 
+*   [Capoeira training diary](/pages/capoeira-training-diary.html)
 *   [Capoeira song lyrics](/pages/capoeira-songs.html)
 *   [GitHub repository](http://github.com/dougalstanton)
 
