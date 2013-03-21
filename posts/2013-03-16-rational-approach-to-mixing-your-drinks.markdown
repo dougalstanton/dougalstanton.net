@@ -40,11 +40,11 @@ Sidecar
 :   Cognac, sweetened with Cointreau and soured with lemon juice.
 White Lady
 :   A Sidecar, but using gin instead of cognac. Also known as a Chelsea
-    Sidecar. The Cointrea and lemon juice remain. This is one of our 
+    Sidecar. The Cointreau and lemon juice remain. This is one of our 
     favourites.
 Margarita
 :   A bigger jump, as we're changing the souring agent this time too.
-    Tequila, Cointrea and lime juice.
+    Tequila, Cointreau and lime juice.
 Daiquiri
 :   Rum, sugar syrup and lime juice.
 
