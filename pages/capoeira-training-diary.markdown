@@ -20,7 +20,7 @@ played during the regular phase for the other rhythm.
 
 
     1 2 3 4 1 2 3 4 | O=open, C=closed, #=caxixi
-    O C #   O # C   | Angola: regular then variant
+    O C   # O # C   | Angola: regular then variant
     C O OO  C O   # | SBP:    variant then regular
 
 Ginga with "breaks" --- _giro_ (spin round one leg, leaning back at finish),
@@ -47,7 +47,7 @@ Variant 1:
 
     Rabo de arraia to force move  / Esquiva
     Rabo de arraia opp. direction / Enter leg, negativa
-    Over or under as required     \ Tesouro
+    Over or under as required     \ Tesoura
 
 Variant 2:
 
