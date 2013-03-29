@@ -3,3 +3,5 @@ _cache/
 # libraries and generated binaries
 cabal-dev/*
 dist/*
+# symlink of my CV
+cv.markdown
