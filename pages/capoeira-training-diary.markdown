@@ -57,3 +57,10 @@ Variant 2:
 
 Right's QDR should be strong and might benefit from contracting the legs
 to protect before spreading for the tesoura.
+
+
+### 2013-04-04
+
+    Meia lua               / Esquiva
+    Jump back to negativa  \ Chapa (either leg)
+    S-dobrado              / giro or au or ...
