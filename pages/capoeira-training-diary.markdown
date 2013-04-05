@@ -61,6 +61,19 @@ to protect before spreading for the tesoura.
 
 ### 2013-04-04
 
+Quite an intricate sequence starting from a chapa as a response to a fairly
+open meia lua. The defender performs an esquiva in the same direction as the
+kick, followed by a chapa (a) with the following leg, keeping weight where
+it is, or (b) bringing the following leg in and kicking backwards with the
+standing leg. (NB that (a) is close to but shouldn't turn into gancho --- be
+more direct!)
+
     Meia lua               / Esquiva
     Jump back to negativa  \ Chapa (either leg)
     S-dobrado              / giro or au or ...
+
+Defending the chapa is where it gets tricky. Moving from meia lua to leaping
+back, shifting the weight and the rotation in the opposite direction. The
+end position is a half-squat with the former kicking foot flat on the ground
+and the standing leg outstretched on the ground. Making sure you're not
+landing hand-first as you're quickly going to really hurt your wrist.
