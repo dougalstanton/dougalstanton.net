@@ -61,6 +61,9 @@ to protect before spreading for the tesoura.
 
 ### 2013-04-04
 
+Practise ginga: with a firm base and a light expressive top half; and with
+an agile, light base and a solid top half.
+
 Quite an intricate sequence starting from a chapa as a response to a fairly
 open meia lua. The defender performs an esquiva in the same direction as the
 kick, followed by a chapa (a) with the following leg, keeping weight where
