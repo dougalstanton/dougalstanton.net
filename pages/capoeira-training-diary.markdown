@@ -80,3 +80,43 @@ back, shifting the weight and the rotation in the opposite direction. The
 end position is a half-squat with the former kicking foot flat on the ground
 and the standing leg outstretched on the ground. Making sure you're not
 landing hand-first as you're quickly going to really hurt your wrist.
+
+
+### 2013-04-12
+
+Moving round in a circle --- walking forwards, backwards, deep lunging
+steps, on all fours forwards, backwards, forwards but *really* low
+(killer).
+
+Fall back on one leg, the other forward, and au on the side of the forward
+leg. Try to step from one hand to the other with the au.
+
+Queda de tres with the supported side towards your opponent. Push off with
+both feet and jump to the front, supported on your planted hand. Repeat
+but the jump becomes a two-footed kick.
+
+Small au stops midway and expands. Drop straight down so you are facing
+the opposite way and repeat on the other side.
+
+Sequence 1:
+
+Simple sequence moving forward with tesoura and au, moving over the
+opponent and asking a question --- as simple or as difficult as you want
+to make it.
+
+    Tesoura                      / Au, drop into queda de rins
+    Au, drop into queda de rins  \ Tesoura
+
+Sequence 2:
+
+Another simple sequence. The first rabo de arraia just has to be enough to
+force the esquiva. With enough skill it can just be a flick of the hips...
+
+    Feint rabo de arraia                  / Esquiva
+    Switch & rabo de arraia opposite side / Esquiva
+
+Variations on _Chama eu Angola_, citing Pastinha or Besouro instead of
+Angola.
+
+    Chama eu, chama eu
+    Chama eu Angola, chama eu
