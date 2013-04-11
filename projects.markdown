@@ -3,8 +3,9 @@ title: Projects
 ---
 Some of my projects, under current development, "finished" or defunct.
 
-*   [Capoeira training diary](/pages/capoeira-training-diary.html)
-*   [Capoeira song lyrics](/pages/capoeira-songs.html)
+*   Capoeira with [Mao No Chao Scotland](http://www.maonochao.org)
+    *   [Training diary](/pages/capoeira-training-diary.html)
+    *   [Song lyrics](/pages/capoeira-songs.html)
 *   [GitHub repository](http://github.com/dougalstanton)
     *   [ComicBake](/pages/comicbake.html): for writing quick comics
 
