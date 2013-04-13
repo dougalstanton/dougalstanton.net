@@ -1,5 +1,6 @@
 ---
 title: Comics from the halfbakery
+tags: programming, haskell, projects, comicbake
 ---
 
 I have finally got my act together and started writing some code and even

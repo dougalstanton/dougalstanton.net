@@ -1,5 +1,6 @@
 ---
 title: More exciting handstand news
+tags: capoeira, handstands
 ---
 Okay so probably not as exciting for you as it is for me, but
 today I had one of those little victories that's worth writing

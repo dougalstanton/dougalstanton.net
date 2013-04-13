@@ -1,5 +1,6 @@
 ---
 title: Looking to windward
+tags: life, books
 ---
 
 One of my absolute favourite authors, Iain (M) Banks, has announced he has

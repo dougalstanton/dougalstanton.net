@@ -1,5 +1,6 @@
 ---
 title: Key management (in the real world)
+tags: life, pockets
 ---
 There isn't really a solution to having too many keys. You just
 have to make one mistake with that jailer's bunch that you haul

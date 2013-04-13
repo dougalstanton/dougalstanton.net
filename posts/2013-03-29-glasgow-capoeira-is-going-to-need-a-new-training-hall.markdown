@@ -1,5 +1,6 @@
 ---
 title: Glasgow capoeira is going to need a new training hall
+tags: capoeira
 ---
 You might have seen in the news that there was a fire at
 a school in Glasgow. What you might not have known was that
