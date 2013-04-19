@@ -118,5 +118,38 @@ force the esquiva. With enough skill it can just be a flick of the hips...
 Variations on _Chama eu Angola_, citing Pastinha or Besouro instead of
 Angola.
 
-    Chama eu, chama eu
-    Chama eu Angola, chama eu
+| Chama eu, chama eu
+| Chama eu Angola, chama eu
+
+### 2013-04-19
+
+Gentle ginga to warm up. With foot in rear position lower down into crouch
+with rear foot on toe and front foot flat. Should be stable and mobile,
+ready for esquiva, turn sideways, au etc. Stand and repeat on other side:
+ginga then drop into crouch, rise again. Alternately, rise into a low base
+without ginga, then into crouch; really hit those thighs hard.
+
+When in crouch, role round the forward leg, keeping quite small and tight
+rather than stretching the leg out. Repeat in both directions. In role
+mid-point push backwards with both hands so you pivot over the anchored
+leg and use the aerial leg to land in the same crouch position facing the
+opposite way from your start position. (Can be done with two people
+sliding past each other and repositioning around the perimeter of a small
+circle.)
+
+Esquiva with one hand down, bring feet together and spread feet again
+facing the opposite direction. Protect and keep an eye on your partner
+through your legs, switch to the other side. The forward leg is the
+straight(er) leg as you drop into a crouch, side on to partner. From there
+you can role into into tesoura or rabo de arraia.
+
+A new song:
+
+| **Sobrado de Mam&atilde;e**
+|
+| O sobrado de mami&atilde;e &eacute; debaixo d'&aacute;gua
+| O sobrado de mame&atilde;e &eacute; debaixo d'&aacute;gua
+| Debaixo d'&aacute;gua por cima da areia
+|
+| _Tem ouro, tem prata_
+| _Tem diamante que nos alumeia_
