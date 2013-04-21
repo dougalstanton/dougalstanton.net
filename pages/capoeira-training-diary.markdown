@@ -153,3 +153,16 @@ A new song:
 |
 | _Tem ouro, tem prata_
 | _Tem diamante que nos alumeia_
+
+
+### 2013-04-21
+
+Notes from a charity roda.
+
+*   Need to work on controlling level of engagment (ie 1,2,3) where 1 is
+    only exploratory and not combative. Work on letting people move rather
+    than always blocking. Encourage the flow of conversation rather than
+    obstructing it. Spend more time having fun, collaborating...?
+*   Related to that, work on the interplay between leading and following:
+    learning to notice when I'm following (most of the time) and see if I
+    do something about that.
