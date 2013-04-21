@@ -147,8 +147,8 @@ A new song:
 
 | **Sobrado de Mam&atilde;e**
 |
-| O sobrado de mami&atilde;e &eacute; debaixo d'&aacute;gua
-| O sobrado de mame&atilde;e &eacute; debaixo d'&aacute;gua
+| O sobrado de mam&atilde;e &eacute; debaixo d'&aacute;gua
+| O sobrado de mam&atilde;e &eacute; debaixo d'&aacute;gua
 | Debaixo d'&aacute;gua por cima da areia
 |
 | _Tem ouro, tem prata_
