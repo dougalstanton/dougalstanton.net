@@ -166,3 +166,24 @@ Notes from a charity roda.
 *   Related to that, work on the interplay between leading and following:
     learning to notice when I'm following (most of the time) and see if I
     do something about that.
+
+### 2013-04-26
+
+Some work on low ginga, moving slowly and maintaining a constant distance
+and connection from each other. I really need to work on this sense of
+flow and constant movement alongside the connectivity: it seems to be one
+or another at the moment.
+
+Kicking practice --- rabo de arraia, rabo de arraia sem m&atilde;o and
+armada. Particular emphasis on minimising telegraph with rabo de arraia by
+not stepping forward but spinning from the base of the ginga. Also armada
+followed by bananeira on each side.
+
+Sequence (might have been two mixed together, can't remember)
+
+    Negativa left
+    Swing foot in front and negativa to the right
+    Bananeira to the right
+    Land on right foot, step in with left foot
+    Rabo de arraia with right foot
+
