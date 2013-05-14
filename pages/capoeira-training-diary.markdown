@@ -155,9 +155,7 @@ A new song:
 | _Tem diamante que nos alumeia_
 
 
-### 2013-04-21
-
-Notes from a charity roda.
+### 2013-04-21 Charity roda
 
 *   Need to work on controlling level of engagment (ie 1,2,3) where 1 is
     only exploratory and not combative. Work on letting people move rather
@@ -186,4 +184,37 @@ Sequence (might have been two mixed together, can't remember)
     Bananeira to the right
     Land on right foot, step in with left foot
     Rabo de arraia with right foot
+
+### 2013-05-02 First class in Overnewton
+
+Injured left side so just played pandeiro and sang. Things to concentrate
+on w.r.t. music:
+
+*   Singing at the right time so the boom-ba matches up with the
+    lyrics which typically contain a da-da rhythm themselves. Or remember
+    at which point the singing is supposed to start. :-\
+*   Getting the correct pitch for _Bahia de todos os santos_, particularly
+    for the second line of each verse which goes up.
+
+### 2013-05-09 Dion's class in Airdrie
+
+Flexibility work: forward splits, rotation to forward splits facing the
+other direction. Half ponte and straight-legged stretch (like a half ponte
+or role but with legs out straight in a wide V, heels on the ground).
+
+Flow work: moving across the ground with role/ginga, stop into bananeira, and
+back to moving again.
+
+Rabo de arraia then step back into bananeira. Upright alternative: rabo de
+arraia then bring knee of kicking leg up and through. A knee, or a
+threatened chapa, or a defence.
+
+### 2013-05-11 Dion's workshop in Drumnadrochit
+
+Lots of mobility work and relaxation emphasis. Ginga, "crocodile"
+(travelling tesoura move, head and body low to ground), "lizard" (similar
+but forward, with upward bend every few paces), "elephant"
+(straight-legged backwards walk with body folded double and short steps).
+
+Tesoura. Tesoura and au with one protecting from cabecada.
 
