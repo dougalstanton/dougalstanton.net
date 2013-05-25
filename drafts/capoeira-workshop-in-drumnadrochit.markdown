@@ -49,3 +49,12 @@ air and stopped in at [Fiddlers] [3] for a sly half pint --- sitting
 in the beer garden in what was left of the sunshine.
 
 [3]: <http://www.fiddledrum.co.uk/> "Restaurant and more"
+
+In the evening we stayed up drinking and watching crazy videos on YouTube
+of handbalancing, Cyr wheels and people who jump off cliffs without a
+safety net.
+
+After lunch the next day we went to Drumnadrochit with everyone else and
+while they settled in for the second session of the weekend we boarded the
+(expensive) bus to Inverness to catch our train to Edinburgh and see Paper
+Aeroplanes at the Voodoo Rooms (a very fine gig).
