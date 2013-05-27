@@ -8,6 +8,13 @@ Spock etc, before the events of the original television series. In fact,
 the film ends at the beginning of the "five year mission" that is part of
 the opening monologue for _Star Trek_.
 
+<a href="http://www.flickr.com/photos/matthewsheean/3636722887/"
+title="Star Trek Guys by Matthew Sheean, on Flickr"><img
+src="http://farm4.staticflickr.com/3390/3636722887_713cbdf8f8.jpg"
+width="323" height="500" alt="Star Trek Guys"
+style="float:left;margin-right:10px;"></a>
+
+
 This film was disappointing for many insubstantial reasons. Much of the
 scenes were lifted from previous Star Trek --- if you know your lore
 you'll be guessing (correctly) how scenes unfold from the opening lines.
