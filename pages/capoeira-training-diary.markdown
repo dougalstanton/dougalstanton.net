@@ -209,6 +209,14 @@ Rabo de arraia then step back into bananeira. Upright alternative: rabo de
 arraia then bring knee of kicking leg up and through. A knee, or a
 threatened chapa, or a defence.
 
+Chamada-style head-to-belly stance. Upright person leads and crouched
+person has to follow while maintaining constant connection.
+
+One person breaks into the other person's meia lua with a decisive butt to
+the sternum. Hands up to protect on side of incoming leg.
+
+    Meia lua de frente / cabecada
+
 ### 2013-05-11 Dion's workshop in Drumnadrochit
 
 Lots of mobility work and relaxation emphasis. Ginga, "crocodile"
@@ -218,3 +226,38 @@ but forward, with upward bend every few paces), "elephant"
 
 Tesoura. Tesoura and au with one protecting from cabecada.
 
+### 2013-05-24 Revision of Dion's teachings
+
+Piolho away; Nick taking us through some of the work that Dion was doing
+with us. In no particular order:
+
+*   Ginga work. Two phases: the first ignores the body and concentrates on
+    the legs, keeping things solid and deliberate.
+    
+    Exercises included (i) always being open (wide-legged stance, no
+    crossing legs over), (ii) always crossing legs over (much spinning and
+    standing with legs together, (iii) "exploration" of space by
+    maintaining all your weight on the support leg until the last moment
+    and then switching to the other leg.
+    
+    Second phase was to concentrate on upper half leaving legs alone to do
+    their thing: sway first from the hips, then moving from the waist and
+    chest, then finally bringing the shoulders and head in, to the point
+    of leading with the head (chin first?).
+*   Ponte work. Ponte rotation along a wall, choosing a horizontal line to
+    follow and then return other way. Increase difficulty by choosing a
+    lower line on the wall and placing your feet further from the wall. In
+    essence, moving the body towards horizontal.
+
+    Attempting similar moves from the ground. Lying back bring feet up
+    underneath and take weight onto head/shoulders to get hands onto the
+    ground and holding some weight.
+
+    Otherwise starting from queda de rins take weight on head and try to
+    spin hand on ground to be positioned "backwards".
+*   Progressive cabecada and au, maintaining contact with the head
+    throughout the au. Concentrate on the opponent not the ground during
+    au!
+
+Other thoughts for the lesson: think about decisiveness. Choosing whether
+to go for a move or not, or to fake a move or not.
