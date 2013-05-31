@@ -261,3 +261,74 @@ with us. In no particular order:
 
 Other thoughts for the lesson: think about decisiveness. Choosing whether
 to go for a move or not, or to fake a move or not.
+
+### 2013-05-30
+
+As the previous week, revising things that Dion was teaching but from
+Piolho's perspective this time.
+
+*   Weight placement. Esquiva to one leg so that all of the weight is
+    directly above it (don't twist the knee). Sinking on that knee while
+    leaving the toes of the trailing foot on the ground leaves the
+    greatest range of movement open. (If the weight is evenly distributed
+    you have to shift it all in one direction to do anything.)
+
+    Two ways of doing this. Either sink directly on leg while moving the
+    other leg "out" (as if stepping under a kick). Or stepping back with
+    the leg which will hold your weight and letting it collapse down. In
+    both situations one leg takes all the weight, but the difference is
+    whether it is the leg which moves or the leg that remains static.
+
+    The direction of movement is also variable. With the weight on the
+    static leg, moving forward allows you to esquiva under a kick or set
+    up a rasteira. With the weight on the moving leg, moving forward
+    is more like a cabecada while moving backward is a definite esquiva.
+
+    Thinking about these moves had a positive effect on my game I felt and
+    on my reactivity.
+
+*   Cabecada. One exercise leaning head against partner's stomach, each
+    leaning into the other similar to the chamada. Letting the bending
+    person's head push the other around, keeping a straight back and neck.
+
+    The other exercise is a meia lua interrupted by a cabecada to the
+    sternum. Things to concentrate on include *slighty* turning away from
+    the kicking leg for protection, and getting a good solid connection
+    and push on the centre of the chest.
+
+Sequence:
+
+Things brings together a lot of the elements from above. The kick
+interrupted by the cabecada, but this time Left receives the head with an
+esquiva, stepping back and down onto the back leg, then switching weight
+to the front leg to use back leg to kick. Right brings their back leg *in*
+so both legs are together then drops their weight to "esquiva through"
+underneath the rabo de arraia. (It is possible to step out to the side and
+come back in with the cabecada instead of going inside.)
+
+    Meia lua de frente / interrupt kick
+    Esquiva backwards  \ with cabecada
+    Rabo de arraia     / Esquiva
+                       \ Step inside (or cabecada)
+
+Done well this sequence has a nice sense of distance and elasticity though
+I always end up too close at the end when stepping inside, which negates
+the need for the cabecada but isn't so flexible or elegant.
+
+And the lyrics to a couple of songs. This first one can also be _Angoleiro
+sou eu_ instead of _Capoeira sou eu_. I don't know about the verses.
+
+| **Quem vem l&aacute;? --- Sou eu**
+|
+| Quem vem la? Sou eu
+| Quem vem la? Sou eu
+| Berimbau bateu
+| Capoeira sou eu
+
+Second song, again no verse lyrics, sorry...
+
+| **Bal&atilde;o subiu, bal&atilde;o desceu**
+|
+| Balao subiu
+| Balao desceu
+
