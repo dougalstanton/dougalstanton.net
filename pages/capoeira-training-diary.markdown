@@ -332,3 +332,31 @@ Second song, again no verse lyrics, sorry...
 | Balao subiu
 | Balao desceu
 
+### 2013-06-05 First day in The SPACE
+
+Some interesting new techniques from Dion's recent teaching which I hadn't
+learned so presumably it's from his Sunday class in Drumnadrochit.
+
+Starting with an esquiva --- leaning over to the right and placing the
+left hand next to the right foot. Place the right hand "back" (away from
+the opponent so that this hand forms a squint triangle on the floor with
+the feet as the two other vertices. Move the extended leg in so it takes
+the weight properly and bend so the hips get low to the ground. You want
+to spin the body along a horizontal axis so the leg that was weight
+bearing arcs over the top of the body --- sort of a rabo de arraia shifted
+through ninety degrees. If the hips aren't low enough and the body not
+flat enough it turns into a rabo de arraia.
+
+Second we did some nice ground work from a base of queda de quatro by
+shifting through the diagonal: fixing two opposite points (hand and foot)
+and swapping the other two. This can be combined with esquiva for extra
+movement and then back or onward to another square position. The nice
+thing is maintaining the ratio of width/height of the shape on the ground,
+so that a long thin queda de quattro becomes a short wide crouch when you
+swing over.
+
+We also did a bit of work on bananeira. Key point here was keep the arms
+closer together --- much easier to maintain balance. The careful pressure
+on palms and fingers to shift weight has a much better effect when the
+arms are tight against the ears.
+
