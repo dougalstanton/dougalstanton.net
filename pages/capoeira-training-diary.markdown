@@ -332,7 +332,7 @@ Second song, again no verse lyrics, sorry...
 | Balao subiu
 | Balao desceu
 
-### 2013-06-05 First day in The SPACE
+### 2013-06-04 First day in The SPACE
 
 Some interesting new techniques from Dion's recent teaching which I hadn't
 learned so presumably it's from his Sunday class in Drumnadrochit.
@@ -359,4 +359,10 @@ We also did a bit of work on bananeira. Key point here was keep the arms
 closer together --- much easier to maintain balance. The careful pressure
 on palms and fingers to shift weight has a much better effect when the
 arms are tight against the ears.
+
+### 2013-06-06
+
+Standing work: meia lua, esquiva and rasteira. Esquiva with the back to
+the incoming meia lua. If the kick is off-balanced then move in for the
+rasteira to the standing leg instead.
 
