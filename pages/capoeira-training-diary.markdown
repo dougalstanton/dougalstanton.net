@@ -366,3 +366,46 @@ Standing work: meia lua, esquiva and rasteira. Esquiva with the back to
 the incoming meia lua. If the kick is off-balanced then move in for the
 rasteira to the standing leg instead.
 
+### 2013-06-11
+
+First half of training focussed on getting upside down. Trying to travel
+and land in a straight line rather than curving inwards with the landing
+feet. Need to get body and legs more vertical to achieve this.
+
+1.  From base, gliding hands to one side and another, then pushing off
+    into bananeira.
+2.  As above but ginga, esquiva to one side then glide over to the other
+    for the bananeira.
+3.  As above but while in bananeira swap the upright and forward legs back
+    and forth forming a one-two kick sequence. Emphasise raising the
+    lowered leg instead of lowering the vertical one in order to maintain
+    balance.
+
+From this foundation move on to a dynamic escorpiao.
+
+1.  Attempt the kick like a rabo de arraia with one leg initially; the
+    other can follow through later if necessary. Keep eye contact on the
+    opponent. Opponent drops backward.
+2.  The opponent drops on one foot, with the free leg on the side of the
+    first kicker's head and aims for their face. The first kicker should
+    try to push off their arms and away.
+
+Second half of training looked at a takedown built on the transition from
+queda de quatro to esquiva (jujitsu "technical stand up", apparently). As
+a sequence:
+
+    Meia lua de frente            / Esquiva, to queda de quatro
+    Rabo de arraia same direction / Role outside and re-enter
+                                  \ Trap standing knee, pull back with ankle
+
+The final step is a queda de quatro with the opponent's standing leg in
+between your own. As the weight comes off this leg it becomes free to move
+easily. With the weight on your inside leg and outside arm, pull the other
+leg back taking the opponent's ankle with you. You should end in low
+esquiva while they drop to the floor held by their other leg.
+
+Important notes: The leg should be unweighted. You are trying to lower the
+centre of gravity down to the ground rather than topple them. The pull
+back should be straight, not twisting or trapping the knee. The inner leg
+should just be there to stop the opponent moving it over your shin when
+you start to pull through.

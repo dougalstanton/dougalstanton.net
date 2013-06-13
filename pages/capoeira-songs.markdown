@@ -53,3 +53,10 @@ Chorus _in italics_
 |
 | _E de ia ia_
 
+### Mandei caiar me sobrado
+
+| Mandei caiar meu sobrado
+| Mandei, mandei, mandei
+| Mandei pintar de armarelo
+| Pintei, pintei, pintei
+
