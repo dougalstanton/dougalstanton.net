@@ -450,3 +450,17 @@ the nearest leg. You can quickly bring the side leg forward if it doesn't
 have any body weight on it. The difficulty will be getting your body low
 enough for a good cabecada.
 
+Pandeiro rhythms! Start with regular shaking emphasised by a thumb hit on
+the 1 beat. Then replace the 4 beat with a slap to give a nice
+boom-sheky-sheky-slap! Finally every fourth bar there was a kind of double
+slap thing that I haven't really remembered correctly so will need to get
+clarified.
+
+    1-2-3-4-1-2-3-4-   t=thumb
+    t # # # t # # #    s=slap
+                       #=shake
+    1-2-3-4-1-2-3-4-
+    t # # s t # # s
+
+    1-2-3-4-1-2-3-4-1-2-3-4-1-2-3-4-
+    t # # s t # # s t # # s t # # ss  <-- not sure
