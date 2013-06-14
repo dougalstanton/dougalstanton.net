@@ -391,7 +391,7 @@ From this foundation move on to a dynamic escorpiao.
     try to push off their arms and away.
 
 Second half of training looked at a takedown built on the transition from
-queda de quatro to esquiva (jujitsu "technical stand up", apparently). As
+queda de quatro to esquiva (jujitsu "[technical stand][1]", apparently). As
 a sequence:
 
     Meia lua de frente            / Esquiva, to queda de quatro
@@ -409,3 +409,44 @@ centre of gravity down to the ground rather than topple them. The pull
 back should be straight, not twisting or trapping the knee. The inner leg
 should just be there to stop the opponent moving it over your shin when
 you start to pull through.
+
+![stick figure takedown](http://i.imgur.com/7aEpi1t.png)
+
+[1]:
+<http://breakingmuscle.com/martial-arts/brazilian-jiu-jitsu-how-why-do-technical-stand>
+    "A technical stand in BJJ"
+
+### 2013-06-13
+
+Arm plyometrics: from standing drop into a push up position and spring
+back up to standing again. Also repeat to left and right side instead of
+forward. Perform carefully.
+
+Flow work with partners keeping up a constant rabo de arraia/esquiva rally
+without breaking the chain. Trying to keep low throughout the sequence and
+not bobbing down and up in the pendulum style.
+
+Fast and hard rabo de arraia and back to a stable base. Aiming for the
+fastest possible kick without compromising the finish.
+
+Feints followed by cabecada. First the fake meia lua --- show the kick
+with the hips then step forward with the "kicking" leg and through with
+the head. Escape by facing sideways and moving the body weight back and
+stepping out with the forward leg. Second the fake rab de arraia --- step
+in with the support leg as if going to whip round then step through into
+your partner. It may be best to just show the kick with the shoulders so
+that the legs are not too committed to the rabo de arraia you don't want
+to do, and can be properly marshalled to stepping into the person.
+
+Repeat sequence from previous week:
+
+    Meia lua de frente / step in with back to kick
+    Esquiva backwards  \ cabecada
+    Rabo de arraia     / Esquiva with unweighted leg under the kick
+                       \ Step forward for cabecada
+
+When the rabo de arraia comes put the leg under the kick but descend on
+the nearest leg. You can quickly bring the side leg forward if it doesn't
+have any body weight on it. The difficulty will be getting your body low
+enough for a good cabecada.
+
