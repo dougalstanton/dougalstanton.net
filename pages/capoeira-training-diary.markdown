@@ -410,6 +410,8 @@ back should be straight, not twisting or trapping the knee. The inner leg
 should just be there to stop the opponent moving it over your shin when
 you start to pull through.
 
+This appears to be some variant on a _banda_ (heel sweep).
+
 ![stick figure takedown](http://i.imgur.com/7aEpi1t.png)
 
 [1]:
@@ -464,3 +466,16 @@ clarified.
 
     1-2-3-4-1-2-3-4-1-2-3-4-1-2-3-4-
     t # # s t # # s t # # s t # # ss  <-- not sure
+
+### 2013-06-18
+
+Practising variations in the berimbau rhythms from the Angola base. An
+important detail I hadn't really picked up on before was the central role
+of the chi-chi in providing a backbone to the berimbau rhythms and
+separating the different bars of regular and variant rhythms.
+
+    xx O C - xx O C - xx O C - xx O C -   (1. standard)
+    xx O C - xx O - C xx O C - xx O - C   (2. delayed closed note every 2nd)
+    xx O C - xx OOOOO xx O C - xx OOOOO   (3. five open notes)
+    xx O C - xx O - C xx OOOOO xx O C -   (4. combine 2 and 3)
+
