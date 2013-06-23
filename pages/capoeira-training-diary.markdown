@@ -479,3 +479,59 @@ separating the different bars of regular and variant rhythms.
     xx O C - xx OOOOO xx O C - xx OOOOO   (3. five open notes)
     xx O C - xx O - C xx OOOOO xx O C -   (4. combine 2 and 3)
 
+### 2013-06-20
+
+Two new songs which we played to a simple samba-like rhythm on the
+pandeiro. Essentially just the 3-4 of the standard Angola pandeiro rhythm
+repeated. Also tried a variant with shakes instead of finger-heel every
+other bar. I am still totally incapable of stepping at the same time as
+doing anything else, singing or playing instrument.
+
+    t f/h/f t f/h/f t f/h/f t f/h/f (original)
+    t f/h/f t # # # t f/h/f t # # # (variation)
+
+| **Quando a mar&eacute; baixar**
+|
+| Quando a mar&eacute; baixar
+| Vou ver Juliana
+| Vou ver Juliana e
+| Vou ver Juliana
+|
+| _Quando a mar&eacute; baixar_
+| _Vou ver Juliana_
+| _Vou ver Juliana e_
+| _Vou ver Juliana_
+
+
+Second one is a bit faster and harder to get all the words out. "cair"
+seems to rhyme with "Maria", something like "ka-yee-a". This version is
+much longer than the one we were singing but includes all the elements I
+think we were aiming towards.
+
+| **Ave Maria, Meu Deus**
+|
+| Ave Maria meu Deus, nunca vi casa nova cair
+| Nunca vi casa nova cair, nunca vi casa nova cair
+|
+| _Ave Maria meu Deus, nunca vi casa nova cair_
+|
+| Nunca vi angoleiro cair, nunca vi angoleiro cair
+|
+| _Ave Maria meu Deus, nunca vi casa nova cair_
+|
+| Nunca vi casa nova cair, nunca vi casa velha cair
+|
+| _Ave Maria meu Deus, nunca vi casa nova cair_
+|
+| Cair cair, nunca vi casa nova cair
+|
+| _Ave Maria meu Deus, nunca vi casa nova cair_
+
+
+A small one-sided sequence which is slowly added to over the class.
+
+    Spin across and away
+    Cabecada in
+    Pull away
+    Role over extended leg
+    Small au across with double-leg push
