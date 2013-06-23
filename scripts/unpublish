@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+
+RECENT=$HOME/blog/.justpublished
+
+if [ -e $RECENT ]
+then
+    PUBLISHED=$(cat $RECENT)
+    
+    cd $HOME/projects/dougalstanton.net
+    if [ ! -e posts/$PUBLISHED ];
+    then
+        echo "Cannot find just-published file $PUBLISHED"
+        exit 1
+    fi
+    # start at 12th char, omitting the date: YYYY-MM-DD-
+    DRAFT=$(basename $PUBLISHED | cut -c 12-)
+    git mv posts/$PUBLISHED drafts/$DRAFT
+    echo "Post back in drafts as $DRAFT"
+    rm $RECENT
+else
+    echo "No recently published file in $RECENT?"
+fi

@@ -1,0 +1,32 @@
+#!/usr/bin/env bash
+
+REPOSITORY=github.com/dougalstanton/dougalstanton.github.com.git
+
+REMOTE=$HOME/blog/_remote
+LOCAL=$HOME/blog/_local
+
+if [ -e $REMOTE ]
+then
+    cd $REMOTE
+    git pull
+    cd ..
+else
+    git clone http://dougalstanton@$REPOSITORY $REMOTE
+fi
+
+
+echo "Removing old deployed files..."
+## Delete only the top-level contents of directory but not .git*
+## or the directory itself.
+find $REMOTE -maxdepth 1 -mindepth 1 -not -name '.git*' -exec rm -rf {} +
+cp -R $LOCAL/* $REMOTE
+
+MESSAGE="Site updated at $(date --utc +'%F %T') UTC"
+echo "Updating github page..."
+cd $REMOTE
+git add .
+git add -u
+git commit -m "$MESSAGE"
+git push origin master
+echo $MESSAGE
+

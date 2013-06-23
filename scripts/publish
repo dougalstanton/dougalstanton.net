@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+
+if [ "$1" = "" ];
+then
+    echo "usage: publish path/to/draft.markdown"
+    exit 1
+fi
+
+if [ -e $1 ]
+then
+    DATE=$(date '+%F')
+    POST=$(basename $1)
+    PUBLISHED=$DATE-$POST
+    cd $HOME/projects/dougalstanton.net
+    git mv drafts/$POST posts/$PUBLISHED
+    echo "Post published on $DATE"
+    echo $PUBLISHED > $HOME/blog/.justpublished
+else
+    echo "File $1 cannot be found"
+fi
