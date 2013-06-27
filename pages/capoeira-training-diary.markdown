@@ -535,3 +535,21 @@ A small one-sided sequence which is slowly added to over the class.
     Pull away
     Role over extended leg
     Small au across with double-leg push
+
+### 2013-06-26 CDO with CM Papa Leguas
+
+Fake a rabo de arraia by stepping across to create a standing leg then
+immediately spinning around and away on the "kicking" leg. You're
+ultimately stepping in and straight out again but describing an ellipse
+around your trailing leg.
+
+From a small queda de quatro, role over the left leg then continue under
+the left leg without moving it, stepping the right leg fully through for
+good balance. You should end up with the body facing right and your left
+side facing upwards. From this position you can walk the feet around for
+ponte, au, macaco etc.
+
+When escaping rabo de arraia or other kick, spin round leaving
+non-supporting leg curved towards the opponent. This gives better
+positioning for executing a return rabo de arraia or kick from queda de
+rins.
