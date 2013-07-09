@@ -38,7 +38,7 @@ the recipes related to each other and the proportions and ingredients
 used.
 
 Starting again from scratch --- with a more technical approach to the
-subject and a more discrminating eye for the examples --- and this book
+subject and a more discriminating eye for the examples --- and this book
 could be a real winner. I really wanted to like it, but so many things
 annoyed me.
 
