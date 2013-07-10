@@ -553,3 +553,25 @@ When escaping rabo de arraia or other kick, spin round leaving
 non-supporting leg curved towards the opponent. This gives better
 positioning for executing a return rabo de arraia or kick from queda de
 rins.
+
+### 2013-07-09
+
+A new guy called Patrick turned up after googling for capoeira so
+hopefully he'll be back in future weeks. Piolho took the class but
+adjusted slightly to make it more beginner-friendly. There was much less
+terminology and more following actions by watching. Like the Papa Leguas
+class I found this quite hard.
+
+The new thing we were doing was a transition from a corta capim into a
+rabo de arraia. Start in an esquiva to the side with both hands down,
+like in starting blocks. Swing the extended leg round the front and when
+it gets past half way place the hands shoulder-width apart in front and
+kick off with the supporting leg, getting enough air that the extended leg
+can spin right underneath. Use the spin to shift the body with it,
+switching legs so the extended leg becomes the base and the jumping leg
+whips round in a rabo de arraia.
+
+Somehow I was doing something subtly different on my left and right side
+so one side I was changing legs but the other side I was just following
+through with the spinning leg as a rabo de arraia. Definitely needs more
+work! Not to mention it's a killer on the legs.
