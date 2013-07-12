@@ -53,7 +53,7 @@ main = hakyllWith config $ do
                 >>= loadAndApplyTemplate "templates/default.html" defaultContext
                 >>= relativizeUrls
 
-        create ["index.html"] $ do
+        create [fromFilePath "index.html"] $ do
             route idRoute
             compile $ mkRecentItems
                 >>= loadAndApplyTemplate "templates/post-list.html" listContext
@@ -61,7 +61,7 @@ main = hakyllWith config $ do
                 >>= loadAndApplyTemplate "templates/default.html" homeCtx
                 >>= relativizeUrls
 
-        create ["archive.html"] $ do
+        create [fromFilePath "archive.html"] $ do
             route idRoute
             let ctx = mkTitle "Archive"
             compile $ mkAllItems
@@ -76,28 +76,30 @@ main = hakyllWith config $ do
         match "favicon.ico" $ do
             route idRoute
             compile copyFileCompiler
-        newfile "CNAME" "dougalstanton.net"
+        newfile (fromFilePath "CNAME") "dougalstanton.net"
 
 newfile :: Identifier -> String -> Rules ()
 newfile name content = create [name] $ do
                         route idRoute
                         compile (makeItem content)
 
-mkFeed name renderer = create [name] $ do
+mkFeed :: String
+       -> (FeedConfiguration -> Context String -> [Item String] -> Compiler (Item String)) -> Rules ()
+mkFeed name renderer = create [fromFilePath name] $ do
     route idRoute
     compile $ do
         let feedCtx = pageCtx <> bodyField "description"
-        posts <- take 10 . recentFirst <$> loadAllSnapshots "posts/*" "content"
+        posts <- fmap (take 10) . recentFirst =<< loadAllSnapshots "posts/*" "content"
         renderer feed feedCtx posts
                 
 mkRecentItems = do
-    items <- take 20 . recentFirst <$> loadAll "posts/*"
+    items <- fmap (take 20) . recentFirst =<< loadAll "posts/*"
     tmpl <- loadBody "templates/post-list-item.html"
     list <- applyTemplateList tmpl listContext items
     makeItem list
 
 mkAllItems = do
-    items <- recentFirst <$> loadAll "posts/*"
+    items <- recentFirst =<< loadAll "posts/*"
     tmpl <- loadBody "templates/post-list-item.html"
     list <- applyTemplateList tmpl listContext items
     makeItem list
