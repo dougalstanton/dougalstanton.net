@@ -2,8 +2,8 @@
 
 REPOSITORY=github.com/dougalstanton/dougalstanton.github.com.git
 
-REMOTE=$HOME/blog/_remote
-LOCAL=$HOME/blog/_local
+REMOTE=$HOME/Documents/blog/_remote
+LOCAL=$HOME/Documents/blog/_local
 
 if [ -e $REMOTE ]
 then
@@ -21,7 +21,7 @@ echo "Removing old deployed files..."
 find $REMOTE -maxdepth 1 -mindepth 1 -not -name '.git*' -exec rm -rf {} +
 cp -R $LOCAL/* $REMOTE
 
-MESSAGE="Site updated at $(date --utc +'%F %T') UTC"
+MESSAGE="Site updated at $(date -u +'%F %T') UTC"
 echo "Updating github page..."
 cd $REMOTE
 git add .

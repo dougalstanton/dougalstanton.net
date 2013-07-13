@@ -7,11 +7,11 @@ import Data.Monoid
 import Hakyll
 
 config = defaultConfiguration
-          { deployCommand = "/home/dougal/bin/deploy_blog"
-          , destinationDirectory = "/home/dougal/blog/_local"
-          , providerDirectory = "/home/dougal/projects/dougalstanton.net"
-          , storeDirectory = "/home/dougal/projects/dougalstanton.net/_cache"
-          , tmpDirectory = "/home/dougal/projects/dougalstanton.net/_cache/tmp"
+          { deployCommand = "/Users/dougal/bin/deploy_blog"
+          , destinationDirectory = "/Users/dougal/Documents/blog/_local"
+          , providerDirectory = "/Users/dougal/Projects/dougalstanton.net"
+          , storeDirectory = "/Users/dougal/Projects/dougalstanton.net/_cache"
+          , tmpDirectory = "/Users/dougal/Projects/dougalstanton.net/_cache/tmp"
           }
 
 feed = FeedConfiguration

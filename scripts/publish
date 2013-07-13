@@ -8,13 +8,13 @@ fi
 
 if [ -e $1 ]
 then
-    DATE=$(date '+%F')
+    DATE=$(date +'%F')
     POST=$(basename $1)
     PUBLISHED=$DATE-$POST
-    cd $HOME/projects/dougalstanton.net
+    cd $HOME/Projects/dougalstanton.net
     git mv drafts/$POST posts/$PUBLISHED
     echo "Post published on $DATE"
-    echo $PUBLISHED > $HOME/blog/.justpublished
+    echo $PUBLISHED > $HOME/Documents/blog/.justpublished
 else
     echo "File $1 cannot be found"
 fi
