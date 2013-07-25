@@ -11,10 +11,19 @@ then
     DATE=$(date +'%F')
     POST=$(basename $1)
     PUBLISHED=$DATE-$POST
-    cd $HOME/Projects/dougalstanton.net
-    git mv drafts/$POST posts/$PUBLISHED
+
+    # If the draft post is already being tracked just let git
+    # move it. Otherwise move it then add to the index.
+    if git ls-files --error-unmatch drafts/$POST
+    then
+        git mv drafts/$POST posts/$PUBLISHED
+    else
+        mv drafts/$POST posts/$PUBLISHED
+        git add posts/$PUBLISHED
+    fi
+    echo $PUBLISHED > .justpublished
+
     echo "Post published on $DATE"
-    echo $PUBLISHED > $HOME/Documents/blog/.justpublished
 else
     echo "File $1 cannot be found"
 fi

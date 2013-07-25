@@ -1,12 +1,11 @@
 #!/usr/bin/env bash
 
-RECENT=$HOME/Documents/blog/.justpublished
+RECENT=.justpublished
 
 if [ -e $RECENT ]
 then
     PUBLISHED=$(cat $RECENT)
     
-    cd $HOME/Projects/dougalstanton.net
     if [ ! -e posts/$PUBLISHED ];
     then
         echo "Cannot find just-published file $PUBLISHED"
