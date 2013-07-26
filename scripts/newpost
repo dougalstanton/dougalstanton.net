@@ -1,12 +1,10 @@
 #!/usr/bin/env bash
 
-DRAFTS=$HOME/Projects/dougalstanton.net/drafts
-
 if [ $# -gt 0 ]
 then
     TITLE=$@
     SLUG=`tr '[:upper:] ' '[:lower:]-' <<< ${TITLE}`
-    FILENAME=$DRAFTS/$SLUG.markdown
+    FILENAME=drafts/$SLUG.markdown
     if [ ! -e $FILENAME ]
     then
         echo -e "---\ntitle: ${TITLE}\ntags:\n---\n" > $FILENAME
