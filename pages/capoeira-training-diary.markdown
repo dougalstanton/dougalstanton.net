@@ -575,3 +575,20 @@ Somehow I was doing something subtly different on my left and right side
 so one side I was changing legs but the other side I was just following
 through with the spinning leg as a rabo de arraia. Definitely needs more
 work! Not to mention it's a killer on the legs.
+
+### 2013-07-23
+
+Revised a takedown defence which Mestre Marcelo Angola did at the weekend
+workshop, on Friday.
+
+	Rabo de arraia           / Negative
+        Negativa                 \ Rabo de arraia
+                                 \ Step over negativa
+                                 \ Feet together inviting vingitiva
+        Place foot for vingitiva / Drop down to wrap near foot round back
+                                 \ Bring other leg into their midriff and twist over
+
+This is escaping the (prompted) vingitiva with a tesoura de costas.
+
+There was also a berimbau rhythm that went something like donch-di donch-di donch,
+which I think equates to: `OxC OxC Ox` though I don't know how the timing works.
