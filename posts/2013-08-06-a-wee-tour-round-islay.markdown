@@ -7,7 +7,7 @@ holiday in Scotland on the bikes. We ferried and cycled from Ardrossan
 Harbour on the west coast, around the top of Arran, over to the Mull of
 Kintyre and then across from there to Islay.
 
-We spent five days on Islay staying at [a B&B in Bowmore (well, near)] [bnb],
+We spent five days on Islay staying at [a B&B in (well, near) Bowmore] [bnb],
 heading to different directions. Basically we spent five days doing as
 many distillery visits as we could get away with, which was pretty good
 fun to be honest. They're interesting and --- since it's such a key part
@@ -36,12 +36,13 @@ bottle of the Laphroaig Quarter Cask (aged in firkins for the greater
 area-to-volume ratio). Several of the tours also let you take your tasting
 glass away with you after the tour, so we've got a good set of those too!
 
-The weather was clear and pleasant --- open to Atlantic as you would
+The weather was clear and pleasant --- open to the Atlantic as you would
 expect but not rain-lashed as we feared. Apart from a brief spell fighting
 against the wind when travelling from Ardbeg to Laphroaig along the south
 coast (and realising Helen had left her purse behind at the last
 distillery; the lovely woman at the visitor centre drove up to Ardbeg
-to collect it while we went on the tour).
+to collect it while we went on the tour) the weather worked entirely in
+our favour.
 
 On the way through we stayed the night on Arran at Lochranza before
 getting the ferry in the morning. On the way home we did it all in one
