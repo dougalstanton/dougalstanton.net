@@ -60,3 +60,25 @@ Chorus _in italics_
 | Mandei pintar de armarelo
 | Pintei, pintei, pintei
 
+### Quando eu Morrer
+
+| Quando eu morrer me enterre na Lapinha
+|
+| _Quando eu morrer me enterre na Lapinha_
+|
+| Cal&ccedil;a, culote, palet&oacute;, amolfadinha
+|
+| _Cal&ccedil;a, culote, palet&oacute;, amolfadinha_
+|
+| Adeus Bahia, zum zum zum
+| Cord&atilde;o de ouro
+| Eu vou partir porque mataram meu besouro
+|
+| E de zum zum zum
+|
+| _E besouro_
+|
+| Cord&atilde;o de ouro
+|
+| _E besouro_
+

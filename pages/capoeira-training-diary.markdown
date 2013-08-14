@@ -582,13 +582,30 @@ Revised a takedown defence which Mestre Marcelo Angola did at the weekend
 workshop, on Friday.
 
 	Rabo de arraia           / Negative
-        Negativa                 \ Rabo de arraia
-                                 \ Step over negativa
-                                 \ Feet together inviting vingitiva
-        Place foot for vingitiva / Drop down to wrap near foot round back
-                                 \ Bring other leg into their midriff and twist over
+    Negativa                 \ Rabo de arraia
+                             \ Step over negativa
+                             \ Feet together inviting vingitiva
+    Place foot for vingitiva / Drop down to wrap near foot round back
+                             \ Bring other leg into their midriff and twist over
 
 This is escaping the (prompted) vingitiva with a tesoura de costas.
 
 There was also a berimbau rhythm that went something like donch-di donch-di donch,
 which I think equates to: `OxC OxC Ox` though I don't know how the timing works.
+
+### 2013-08-13
+
+Took a week off for injuries received by rear-ending a Skoda. Had a gentle
+start with lots of basics in this class. Felt a bit rusty and not very
+strong. Apart from some nice singing the one thing I took away was the
+easing the transition from a negativa to upright again. If the body is
+tilted to one side with the hips facing forward there aren't any leg
+muscles which can help you get up. Any transition puts a lot of strain on
+legs and knees. If you first shift your hips so that you are side-on to
+your partner the underneath leg has a much better chance of pushing you
+upright.
+
+| E de ioio
+| E de iaia
+| Capoeira de angola jogada na beira do mar
+
