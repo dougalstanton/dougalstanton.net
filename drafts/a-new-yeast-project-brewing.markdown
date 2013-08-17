@@ -29,3 +29,12 @@ At the stage of writing the beer has been bottled for five days. It will
 stay in the bottle for another two weeks to "condition", which should add
 some carbonation and let the flavour mature and settle a bit. I am looking
 forward to seeing how it all turns out. Will it be drinkable?
+
+* * *
+
+It's been conditioning in the bottle for two weeks now and I opened one
+this evening to see how it was progressing. The taste was mildly hoppy
+but slightly "thin" somehow. There wasn't as much carbonation as I'd
+hoped. I think I may have put too little sugar in the bottles before
+capping them. But still pretty drinkable, and should be better again in
+a week's time.
