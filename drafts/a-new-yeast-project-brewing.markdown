@@ -38,3 +38,9 @@ but slightly "thin" somehow. There wasn't as much carbonation as I'd
 hoped. I think I may have put too little sugar in the bottles before
 capping them. But still pretty drinkable, and should be better again in
 a week's time.
+
+* * *
+
+Taste number two, about five days later, and things seemed much better
+--- either because I had lower expectations or because more time means
+better flavour. I'm happy to let others taste it now.
