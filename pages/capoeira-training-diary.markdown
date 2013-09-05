@@ -609,3 +609,24 @@ upright.
 | E de iaia
 | Capoeira de angola jogada na beira do mar
 
+### 2013-08-29
+
+| Pe de lima, pe de limao
+| O amor e meu ta dizendo que nao
+| Tao dizendo que nao, tao dizendo que nao
+| (or: Pe de limao, pe de limao, pe de limao)
+| Pe de lima, pe de limao
+
+### 2013-09-03
+
+Lots of repetitions up and down the hall, to really kill your legs the
+next day.
+
+*   From legs together, esquiva by dropping straight down on supporting
+    leg and pushing the other leg out to the side. Legs together and the
+    same on the opposite side. Keep the head looking forward and in the
+    same line as you advance down the hall.
+*   As above but slide to the side/back with the supporting leg moving the
+    most and the trailing leg sliding a bit. Move back to centre and
+    esquiva quickly to the other side. (Do both these escapes after a meia
+    lua for a more fluid transition between attack and defence.)
