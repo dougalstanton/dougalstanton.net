@@ -50,3 +50,7 @@ them in public. Providing background information to the game, a full
 education rather than just a demonstration which is quite opaque and
 inscrutable to watch.
 
+The "money game" is quite an interesting one that I think we should
+explore. It's capoeira with an externally visible "purpose" which is
+more interesting to watch for people who wouldn't otherwise know what
+they're seeing.
