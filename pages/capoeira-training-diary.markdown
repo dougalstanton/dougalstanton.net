@@ -630,3 +630,28 @@ next day.
     most and the trailing leg sliding a bit. Move back to centre and
     esquiva quickly to the other side. (Do both these escapes after a meia
     lua for a more fluid transition between attack and defence.)
+
+### 2013-08-12
+
+Work on attack and defence with faster rabo de arraia and martelo. Also a
+song:
+
+| **Canarinho da Alamanha**
+|
+| Canarinho da Alamanha, quem matou meu curi&oacute;
+| Canarinho da Alamanha, quem matou meu curi&oacute;
+|
+| _Canarinho da Alamanha, quem matou meu curi&oacute;_
+| _Canarinho da Alamanha, quem matou meu curi&oacute;_
+|
+| Canarinho da Alamanha, quem matou meu curi&oacute;
+| Eu jogo capoeira, mas meu mestre &eacute; melhor
+|
+| _Canarinho da Alamanha, quem matou meu curi&oacute;_
+| _Canarinho da Alamanha, quem matou meu curi&oacute;_
+|
+| Canarinho da Alamanha, quem matou meu curi&oacute;
+| O segredo da Lua quem sabe &eacute; o clar&atilde;o do Sol
+|
+| _Canarinho da Alamanha, quem matou meu curi&oacute;_
+| _Canarinho da Alamanha, quem matou meu curi&oacute;_
