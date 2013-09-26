@@ -14,7 +14,8 @@ then
 
     # If the draft post is already being tracked just let git
     # move it. Otherwise move it then add to the index.
-    if git ls-files --error-unmatch drafts/$POST
+    # We get a scary warning if we don't redirect to null.
+    if git ls-files --error-unmatch drafts/$POST > /dev/null 2>&1
     then
         git mv drafts/$POST posts/$PUBLISHED
     else
