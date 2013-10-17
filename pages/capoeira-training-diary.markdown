@@ -655,3 +655,15 @@ song:
 |
 | _Canarinho da Alamanha, quem matou meu curi&oacute;_
 | _Canarinho da Alamanha, quem matou meu curi&oacute;_
+
+### 2013-10-16
+
+| (1) Bei-ra mar, io io
+| (1) Bei-ra mar, ia ia
+| (4) Beira mar beira mar
+| (1) E de io io
+| (4) Beira mar beira mar
+| (1) E de ia ia
+
+| (3) Angola e e
+| (1) Angola e angola
