@@ -1,10 +1,10 @@
 ---
-title: Public speaking and presentation --- post match analysis
-tags:
+title: Public speaking and presentation: post match analysis
+tags: working, programming, speaking
 ---
 
 My recent [foray into the realm of public speaking] [prematch] went really
-well. I presented what was initially going to be a 30 minutes talk on
+well. I presented what was initially going to be a 30 minute talk on
 functional programming, which in the end last for closer to 45 minutes.
 
 During development the topic changed from Haskell to functional
@@ -23,12 +23,13 @@ fare.)
 I wrote most of the presentation in prose format to begin with so that I
 had my ideas fully formed. I think this really helped form a cohesive
 story. In the past I've gone straight from "half-baked idea" to "creating
-slides" and there hasn't been an easy sequence. Coming up with an initial
-story meant that I really knew what I was trying to say and most of the
-time knew what slide was coming up next without peeking.
+slides" and it has been really easy to become confused about what I
+should be saying at each stage. Coming up with an initial story meant
+that I really knew what I was trying to say and most of the time knew
+what slide was coming up next without peeking.
 
-I am definitely more influenced by the Takahashi and Lessig schools of
-presentation authoring --- really minimising the amount of stuff on
+I am definitely more influenced by the [Takahashi][] and Lessig schools
+of presentation authoring --- really minimising the amount of stuff on
 screen. The other important thing is not to read what is on screen. I
 think this is where coming up with a narrative first was really helpful:
 the slides I produced in the end were illustrations of my words, rather
@@ -56,7 +57,16 @@ the subject, more self-confidence or other things that I can't pinpoint
 right now, we'll never know. I felt really in control and for the rest of
 the day was on a total high.
 
+The feedback on the presentation was also very positive --- that it ran
+at a measured pace, I didn't seem flustered or get myself confused, I
+didn't try to say five things at once and so on. In general people
+seemed to believe that I was in control, which in this instance I really
+felt I was. A miracle.
+
 [prematch]: </posts/2013-10-13-aaargh-public-speaking.html>
     "Previous thoughts (anxiety) on public speaking"
-[slides]: <http://github.com/dougalstanton./intro-to-fp/>
+[slides]: <http://github.com/dougalstanton/intro-to-fp/>
     "Source for slides and notes"
+
+[takahashi]: <http://en.wikipedia.org/wiki/Takahashi_method>
+    "Minimal full-screen slides in the style of Masayoshi Takahashi"
