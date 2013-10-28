@@ -667,3 +667,11 @@ song:
 
 | (3) Angola e e
 | (1) Angola e angola
+
+### 2013-10-22
+
+Ijexa rhythm which goes something like this on the atabaque:
+
+    X XX OX XX OX XX OX
+
+where X=slap and O=rim
