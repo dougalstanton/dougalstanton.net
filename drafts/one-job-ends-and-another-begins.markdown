@@ -14,9 +14,8 @@ difference). Eventually we hope to return to our home in Edinburgh, if
 Helen and I end up working on the east coast. I will still be travelling
 by bike and I hope the environment will be nicer!
 
-I had my leaving do on Friday though I'm still at work for the rest of
-the week. I hope to keep in touch with some of the people there and
-maybe see them over Christmas for a chat in the pub or similar.
+I hope to keep in touch with some of the people at Honeywell and maybe
+see them over Christmas for a chat in the pub or similar.
 
 But in the mean time I will have to get used to a new routine with the
 pain of settling into a new job, learning new things and so forth. Wish
