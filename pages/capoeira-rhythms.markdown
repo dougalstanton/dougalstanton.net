@@ -2,7 +2,7 @@
 title: Capoeira Rhythms
 ---
 
-### Pandeiro
+# Pandeiro
 
 T=thumb, S=slap, f=finger, h=heel, sh=shake
 

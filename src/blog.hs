@@ -4,6 +4,8 @@ module Main where
 import Control.Applicative
 import Data.Monoid
 
+import Text.Pandoc.Shared (headerShift)
+
 import Hakyll
 
 config = defaultConfiguration
@@ -22,6 +24,13 @@ feed = FeedConfiguration
         , feedRoot = "http://dougalstanton.net"
         }
 
+-- We can downshift the h1 headers to h3 headers, allowing the
+-- flexibility to write standalone Markdown documents but still
+-- include them in larger pages.
+pandoc = pandocCompilerWithTransform
+            defaultHakyllReaderOptions defaultHakyllWriterOptions
+            (headerShift 2) -- convert h1 to h3 etc.
+
 main :: IO ()
 main = hakyllWith config $ do
         match "templates/*" $
@@ -33,21 +42,21 @@ main = hakyllWith config $ do
 
         match "*.markdown" $ do
             route   $ setExtension "html"
-            compile $ pandocCompiler
+            compile $ pandoc
                 >>= loadAndApplyTemplate "templates/page.html" pageCtx
                 >>= loadAndApplyTemplate "templates/default.html" defaultContext
                 >>= relativizeUrls
 
         match "pages/*" $ do
             route   $ setExtension "html"
-            compile $ pandocCompiler
+            compile $ pandoc
                 >>= loadAndApplyTemplate "templates/page.html" pageCtx
                 >>= loadAndApplyTemplate "templates/default.html" defaultContext
                 >>= relativizeUrls
             
         match "posts/*" $ do
             route   $ setExtension "html"
-            compile $ pandocCompiler
+            compile $ pandoc
                 >>= saveSnapshot "content"
                 >>= loadAndApplyTemplate "templates/page.html" pageCtx
                 >>= loadAndApplyTemplate "templates/default.html" defaultContext

@@ -4,7 +4,7 @@ title: Capoeira Songs
 
 Chorus _in italics_
 
-### Madeira de Massaranduba
+# Madeira de Massaranduba
 
 | Madeira de massaranduba
 | Madeira de jacaranda
@@ -16,7 +16,7 @@ Chorus _in italics_
 | 
 | _Beriba e pra tocar_
 
-### Sim sim sim, nao nao nao
+# Sim sim sim, nao nao nao
 
 | O sim sim sim
 | O nao nao nao
@@ -39,7 +39,7 @@ Chorus _in italics_
 | Mas hoje tem, amanha nao
 | Olha a pisada de Lampiao
 
-### Beira mar
+# Beira mar
 
 | Beira mar io io, beira mar ia ia
 |
@@ -53,14 +53,14 @@ Chorus _in italics_
 |
 | _E de ia ia_
 
-### Mandei caiar me sobrado
+# Mandei caiar me sobrado
 
 | Mandei caiar meu sobrado
 | Mandei, mandei, mandei
 | Mandei pintar de armarelo
 | Pintei, pintei, pintei
 
-### Quando eu Morrer
+# Quando eu Morrer
 
 | Quando eu morrer me enterre na Lapinha
 |

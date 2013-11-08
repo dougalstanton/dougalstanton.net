@@ -3,7 +3,7 @@ title: Promoting a more cerebral capoeira
 tags: capoeira
 ---
 
-## Getting better.
+# Getting better.
 
 Getting together to examine videos of games, either Mao Tudo DVD (the
 Dion/Lucio flow work?) or other content from the internet. Get other
@@ -18,7 +18,7 @@ cardio training, flexibility. Take up classes in other things to learn
 other ways to move. Judo, gymnastics, Contact Improvisation (Contact
 Jam?), yoga and others.
 
-## Getting more practise.
+# Getting more practise.
 
 Moving up to twice a week will be a big boost for those that can manage
 it, and maybe more musical work. People interested can get together for
@@ -29,7 +29,7 @@ other groups, would be great to forge stronger links and make us seem less
 isolated. Combine that with visiting the Edinburgh charity when possible
 to increase participation in games!
 
-## Getting more members.
+# Getting more members.
 
 Promotion through posters, getting away from the boring representations of
 capoeira which don't reflect what we do as a group, or what we want to do.

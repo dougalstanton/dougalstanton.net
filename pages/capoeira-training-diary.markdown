@@ -12,7 +12,7 @@ The intuition is that the attacker is leaning over the defender, imposing a
 situation on them which they have to respond to. Make sense? :-) The two
 players are named Left and Right regardless of role in that instant.
 
-### 2013-03-21
+# 2013-03-21
 
 Add variants to standard Angola/Sao Bento Pequeno, where the regular and
 variant are played in a two bar loop. The variants for each rhythm are
@@ -59,7 +59,7 @@ Right's QDR should be strong and might benefit from contracting the legs
 to protect before spreading for the tesoura.
 
 
-### 2013-04-04
+# 2013-04-04
 
 Practise ginga: with a firm base and a light expressive top half; and with
 an agile, light base and a solid top half.
@@ -82,7 +82,7 @@ and the standing leg outstretched on the ground. Making sure you're not
 landing hand-first as you're quickly going to really hurt your wrist.
 
 
-### 2013-04-12
+# 2013-04-12
 
 Moving round in a circle --- walking forwards, backwards, deep lunging
 steps, on all fours forwards, backwards, forwards but *really* low
@@ -121,7 +121,7 @@ Angola.
 | Chama eu, chama eu
 | Chama eu Angola, chama eu
 
-### 2013-04-19
+# 2013-04-19
 
 Gentle ginga to warm up. With foot in rear position lower down into crouch
 with rear foot on toe and front foot flat. Should be stable and mobile,
@@ -155,7 +155,7 @@ A new song:
 | _Tem diamante que nos alumeia_
 
 
-### 2013-04-21 Charity roda
+# 2013-04-21 Charity roda
 
 *   Need to work on controlling level of engagment (ie 1,2,3) where 1 is
     only exploratory and not combative. Work on letting people move rather
@@ -165,7 +165,7 @@ A new song:
     learning to notice when I'm following (most of the time) and see if I
     do something about that.
 
-### 2013-04-26
+# 2013-04-26
 
 Some work on low ginga, moving slowly and maintaining a constant distance
 and connection from each other. I really need to work on this sense of
@@ -185,7 +185,7 @@ Sequence (might have been two mixed together, can't remember)
     Land on right foot, step in with left foot
     Rabo de arraia with right foot
 
-### 2013-05-02 First class in Overnewton
+# 2013-05-02 First class in Overnewton
 
 Injured left side so just played pandeiro and sang. Things to concentrate
 on w.r.t. music:
@@ -196,7 +196,7 @@ on w.r.t. music:
 *   Getting the correct pitch for _Bahia de todos os santos_, particularly
     for the second line of each verse which goes up.
 
-### 2013-05-09 Dion's class in Airdrie
+# 2013-05-09 Dion's class in Airdrie
 
 Flexibility work: forward splits, rotation to forward splits facing the
 other direction. Half ponte and straight-legged stretch (like a half ponte
@@ -217,7 +217,7 @@ the sternum. Hands up to protect on side of incoming leg.
 
     Meia lua de frente / cabecada
 
-### 2013-05-11 Dion's workshop in Drumnadrochit
+# 2013-05-11 Dion's workshop in Drumnadrochit
 
 Lots of mobility work and relaxation emphasis. Ginga, "crocodile"
 (travelling tesoura move, head and body low to ground), "lizard" (similar
@@ -226,7 +226,7 @@ but forward, with upward bend every few paces), "elephant"
 
 Tesoura. Tesoura and au with one protecting from cabecada.
 
-### 2013-05-24 Revision of Dion's teachings
+# 2013-05-24 Revision of Dion's teachings
 
 Piolho away; Nick taking us through some of the work that Dion was doing
 with us. In no particular order:
@@ -262,7 +262,7 @@ with us. In no particular order:
 Other thoughts for the lesson: think about decisiveness. Choosing whether
 to go for a move or not, or to fake a move or not.
 
-### 2013-05-30
+# 2013-05-30
 
 As the previous week, revising things that Dion was teaching but from
 Piolho's perspective this time.
@@ -332,7 +332,7 @@ Second song, again no verse lyrics, sorry...
 | Balao subiu
 | Balao desceu
 
-### 2013-06-04 First day in The SPACE
+# 2013-06-04 First day in The SPACE
 
 Some interesting new techniques from Dion's recent teaching which I hadn't
 learned so presumably it's from his Sunday class in Drumnadrochit.
@@ -360,13 +360,13 @@ closer together --- much easier to maintain balance. The careful pressure
 on palms and fingers to shift weight has a much better effect when the
 arms are tight against the ears.
 
-### 2013-06-06
+# 2013-06-06
 
 Standing work: meia lua, esquiva and rasteira. Esquiva with the back to
 the incoming meia lua. If the kick is off-balanced then move in for the
 rasteira to the standing leg instead.
 
-### 2013-06-11
+# 2013-06-11
 
 First half of training focussed on getting upside down. Trying to travel
 and land in a straight line rather than curving inwards with the landing
@@ -418,7 +418,7 @@ This appears to be some variant on a _banda_ (heel sweep).
 <http://breakingmuscle.com/martial-arts/brazilian-jiu-jitsu-how-why-do-technical-stand>
     "A technical stand in BJJ"
 
-### 2013-06-13
+# 2013-06-13
 
 Arm plyometrics: from standing drop into a push up position and spring
 back up to standing again. Also repeat to left and right side instead of
@@ -467,7 +467,7 @@ clarified.
     1-2-3-4-1-2-3-4-1-2-3-4-1-2-3-4-
     t # # s t # # s t # # s t # # ss  <-- not sure
 
-### 2013-06-18
+# 2013-06-18
 
 Practising variations in the berimbau rhythms from the Angola base. An
 important detail I hadn't really picked up on before was the central role
@@ -479,7 +479,7 @@ separating the different bars of regular and variant rhythms.
     xx O C - xx OOOOO xx O C - xx OOOOO   (3. five open notes)
     xx O C - xx O - C xx OOOOO xx O C -   (4. combine 2 and 3)
 
-### 2013-06-20
+# 2013-06-20
 
 Two new songs which we played to a simple samba-like rhythm on the
 pandeiro. Essentially just the 3-4 of the standard Angola pandeiro rhythm
@@ -536,7 +536,7 @@ A small one-sided sequence which is slowly added to over the class.
     Role over extended leg
     Small au across with double-leg push
 
-### 2013-06-26 CDO with CM Papa Leguas
+# 2013-06-26 CDO with CM Papa Leguas
 
 Fake a rabo de arraia by stepping across to create a standing leg then
 immediately spinning around and away on the "kicking" leg. You're
@@ -554,7 +554,7 @@ non-supporting leg curved towards the opponent. This gives better
 positioning for executing a return rabo de arraia or kick from queda de
 rins.
 
-### 2013-07-09
+# 2013-07-09
 
 A new guy called Patrick turned up after googling for capoeira so
 hopefully he'll be back in future weeks. Piolho took the class but
@@ -576,7 +576,7 @@ so one side I was changing legs but the other side I was just following
 through with the spinning leg as a rabo de arraia. Definitely needs more
 work! Not to mention it's a killer on the legs.
 
-### 2013-07-23
+# 2013-07-23
 
 Revised a takedown defence which Mestre Marcelo Angola did at the weekend
 workshop, on Friday.
@@ -593,7 +593,7 @@ This is escaping the (prompted) vingitiva with a tesoura de costas.
 There was also a berimbau rhythm that went something like donch-di donch-di donch,
 which I think equates to: `OxC OxC Ox` though I don't know how the timing works.
 
-### 2013-08-13
+# 2013-08-13
 
 Took a week off for injuries received by rear-ending a Skoda. Had a gentle
 start with lots of basics in this class. Felt a bit rusty and not very
@@ -609,7 +609,7 @@ upright.
 | E de iaia
 | Capoeira de angola jogada na beira do mar
 
-### 2013-08-29
+# 2013-08-29
 
 | Pe de lima, pe de limao
 | O amor e meu ta dizendo que nao
@@ -617,7 +617,7 @@ upright.
 | (or: Pe de limao, pe de limao, pe de limao)
 | Pe de lima, pe de limao
 
-### 2013-09-03
+# 2013-09-03
 
 Lots of repetitions up and down the hall, to really kill your legs the
 next day.
@@ -631,7 +631,7 @@ next day.
     esquiva quickly to the other side. (Do both these escapes after a meia
     lua for a more fluid transition between attack and defence.)
 
-### 2013-08-12
+# 2013-08-12
 
 Work on attack and defence with faster rabo de arraia and martelo. Also a
 song:
@@ -656,7 +656,7 @@ song:
 | _Canarinho da Alamanha, quem matou meu curi&oacute;_
 | _Canarinho da Alamanha, quem matou meu curi&oacute;_
 
-### 2013-10-16
+# 2013-10-16
 
 | (1) Bei-ra mar, io io
 | (1) Bei-ra mar, ia ia
@@ -668,7 +668,7 @@ song:
 | (3) Angola e e
 | (1) Angola e angola
 
-### 2013-10-22
+# 2013-10-22
 
 Ijexa rhythm which goes something like this on the atabaque:
 
