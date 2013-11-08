@@ -1,13 +1,25 @@
 #!/usr/bin/env bash
 
+function makepost
+{
+cat <<EOF > $2
+---
+title: $1
+tags:
+---
+EOF
+}
+
 if [ $# -gt 0 ]
 then
     TITLE=$@
-    SLUG=`tr '[:upper:] ' '[:lower:]-' <<< ${TITLE}`
+    # Convert everything to lower case ASCII (removes accents)
+    SLUG=`tr '[:upper:] ' '[:lower:]-' <<< ${TITLE} | iconv -f utf8 -t ascii//TRANSLIT`
     FILENAME=drafts/$SLUG.markdown
     if [ ! -e $FILENAME ]
     then
-        echo -e "---\ntitle: ${TITLE}\ntags:\n---\n" > $FILENAME
+        makepost "${TITLE}" "${FILENAME}"
     fi
+    # Open editor at text 'tags' ready to insert a tag
+    vim +/tags ${FILENAME}
 fi
-vim + $FILENAME
