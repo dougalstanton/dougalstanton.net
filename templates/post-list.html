@@ -1,3 +1,7 @@
     <ul class="post_list">
-$body$
+$for(posts)$
+        <li>
+            $date$ &mdash; <a href="$url$">$title$</a>
+        </li>
+$endfor$
     </ul>

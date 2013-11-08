@@ -53,7 +53,7 @@ main = hakyllWith config $ do
                 >>= loadAndApplyTemplate "templates/page.html" pageCtx
                 >>= loadAndApplyTemplate "templates/default.html" defaultContext
                 >>= relativizeUrls
-            
+
         match "posts/*" $ do
             route   $ setExtension "html"
             compile $ pandoc
@@ -62,22 +62,29 @@ main = hakyllWith config $ do
                 >>= loadAndApplyTemplate "templates/default.html" defaultContext
                 >>= relativizeUrls
 
-        create [fromFilePath "index.html"] $ do
+        match "index.html" $ do
             route idRoute
-            compile $ mkRecentItems
-                >>= loadAndApplyTemplate "templates/post-list.html" listContext
-                >>= loadAndApplyTemplate "templates/page.html" (emptyField "title" <> pageCtx)
-                >>= loadAndApplyTemplate "templates/default.html" homeCtx
-                >>= relativizeUrls
+            compile $ do
+                posts <- fmap (take 15) . recentFirst =<< loadAll "posts/*"
+                let indexCtx = listField "posts" listContext (return posts)
+                                    <> emptyField "title" <> listContext
+                getResourceBody
+                    >>= applyAsTemplate indexCtx
+                    >>= loadAndApplyTemplate "templates/page.html" indexCtx
+                    >>= loadAndApplyTemplate "templates/default.html" homeCtx
+                    >>= relativizeUrls
 
         create [fromFilePath "archive.html"] $ do
             route idRoute
             let ctx = mkTitle "Archive"
-            compile $ mkAllItems
-                >>= loadAndApplyTemplate "templates/post-list.html" listContext
-                >>= loadAndApplyTemplate "templates/page.html" (ctx <> pageCtx)
-                >>= loadAndApplyTemplate "templates/default.html" (ctx <> defaultContext)
-                >>= relativizeUrls
+            compile $ do
+                let arcCtx = listField "posts" listContext (loadAll "posts/*" >>= recentFirst) <>
+                             ctx <> listContext
+                makeItem ""
+                    >>= loadAndApplyTemplate "templates/archive.html" arcCtx
+                    >>= loadAndApplyTemplate "templates/page.html" arcCtx
+                    >>= loadAndApplyTemplate "templates/default.html" arcCtx
+                    >>= relativizeUrls
 
         mkFeed "atom.xml" renderAtom
         mkFeed "rss.xml" renderRss
@@ -100,23 +107,9 @@ mkFeed name renderer = create [fromFilePath name] $ do
         let feedCtx = pageCtx <> bodyField "description"
         posts <- fmap (take 10) . recentFirst =<< loadAllSnapshots "posts/*" "content"
         renderer feed feedCtx posts
-                
-mkRecentItems = do
-    items <- fmap (take 20) . recentFirst =<< loadAll "posts/*"
-    tmpl <- loadBody "templates/post-list-item.html"
-    list <- applyTemplateList tmpl listContext items
-    makeItem list
 
-mkAllItems = do
-    items <- recentFirst =<< loadAll "posts/*"
-    tmpl <- loadBody "templates/post-list-item.html"
-    list <- applyTemplateList tmpl listContext items
-    makeItem list
-
--- pageContext = constField "title" ""
---- postContext = constField "post_menu" ""
-listContext = dateContext <> defaultContext
-dateContext = dateField "date" "%F"
+-- Miscellaneous contexts, could do with a clean up.
+listContext = dateField "date" "%F" <> defaultContext
 pageCtx = defaultContext
 homeCtx = mkTitle "A Blog" <> defaultContext
 emptyField t = constField t ""
