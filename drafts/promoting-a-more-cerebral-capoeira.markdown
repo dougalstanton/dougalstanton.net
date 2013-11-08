@@ -3,6 +3,10 @@ title: Promoting a more cerebral capoeira
 tags: capoeira
 ---
 
+These are a list of ideas that I have considered, and may have discussed
+with other people in the past, to get better at capoeira --- over and
+above the traditional technique of "just working harder".
+
 # Getting better.
 
 Getting together to examine videos of games, either Mao Tudo DVD (the
@@ -43,7 +47,7 @@ central and important element.
 
 Be visible in the public eye, including playing outdoors when possible ---
 which includes getting used to playing on grass or gravel rather than
-indoor floors.
+indoor floors. Don't ask how we go about this in the middle of winter.
 
 Training "canned" sequences to the point we would be comfortable doing
 them in public. Providing background information to the game, a full
