@@ -9,6 +9,7 @@ Some of my projects, under current development, "finished" or defunct.
     *   [Rhythms](/pages/capoeira-rhythms.html)
 *   [GitHub repository](http://github.com/dougalstanton)
     *   [ComicBake](/pages/comicbake.html): for writing quick comics
+    *   Selection of scripts and small tools
     *   Functional Programming talk about code reuse of control flow
         constructs
 
