@@ -44,14 +44,14 @@ main = hakyllWith config $ do
             route   $ setExtension "html"
             compile $ pandoc
                 >>= loadAndApplyTemplate "templates/page.html" pageCtx
-                >>= loadAndApplyTemplate "templates/default.html" defaultContext
+                >>= loadAndApplyTemplate "templates/default.html" pageCtx
                 >>= relativizeUrls
 
         match "pages/*" $ do
             route   $ setExtension "html"
             compile $ pandoc
                 >>= loadAndApplyTemplate "templates/page.html" pageCtx
-                >>= loadAndApplyTemplate "templates/default.html" defaultContext
+                >>= loadAndApplyTemplate "templates/default.html" pageCtx
                 >>= relativizeUrls
 
         match "posts/*" $ do
@@ -59,7 +59,7 @@ main = hakyllWith config $ do
             compile $ pandoc
                 >>= saveSnapshot "content"
                 >>= loadAndApplyTemplate "templates/page.html" pageCtx
-                >>= loadAndApplyTemplate "templates/default.html" defaultContext
+                >>= loadAndApplyTemplate "templates/default.html" pageCtx
                 >>= relativizeUrls
 
         match "index.html" $ do
@@ -109,8 +109,8 @@ mkFeed name renderer = create [fromFilePath name] $ do
         renderer feed feedCtx posts
 
 -- Miscellaneous contexts, could do with a clean up.
-listContext = dateField "date" "%F" <> defaultContext
+listContext = dateField "date" "%F" <> pageCtx
 pageCtx = defaultContext
-homeCtx = mkTitle "A Blog" <> defaultContext
+homeCtx = mkTitle "A Blog" <> pageCtx
 emptyField t = constField t ""
 mkTitle = constField "title"
