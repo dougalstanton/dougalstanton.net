@@ -1,8 +1,8 @@
 {-# LANGUAGE OverloadedStrings #-}
 module Main where
 
-import Control.Applicative
-import Data.Monoid
+import Data.Monoid ((<>))
+import Data.List (isPrefixOf)
 
 import Text.Pandoc.Shared (headerShift)
 
@@ -30,6 +30,20 @@ feed = FeedConfiguration
 pandoc = pandocCompilerWithTransform
             defaultHakyllReaderOptions defaultHakyllWriterOptions
             (headerShift 2) -- convert h1 to h3 etc.
+
+-- Create a new field from an existing one, replacing some characters
+-- with HTML entities so they display nicer.
+smarterField :: String -> Context String
+smarterField key = field ("smart_" ++ key) $ \i -> do
+                        value <- getMetadataField (itemIdentifier i) key
+                        return $ maybe "" smarten value
+
+smarten :: String -> String
+smarten txt | null txt               = txt
+            | "---" `isPrefixOf` txt = "&mdash;" ++ (smarten $ drop 3 txt)
+            | "--"  `isPrefixOf` txt = "&ndash;" ++ (smarten $ drop 2 txt)
+            | "..." `isPrefixOf` txt = "&hellip;" ++ (smarten $ drop 3 txt)
+smarten (c:cs) = c:smarten cs
 
 main :: IO ()
 main = hakyllWith config $ do
@@ -110,7 +124,7 @@ mkFeed name renderer = create [fromFilePath name] $ do
 
 -- Miscellaneous contexts, could do with a clean up.
 listContext = dateField "date" "%F" <> pageCtx
-pageCtx = defaultContext
+pageCtx = defaultContext <> smarterField "title"
 homeCtx = mkTitle "A Blog" <> pageCtx
 emptyField t = constField t ""
 mkTitle = constField "title"
