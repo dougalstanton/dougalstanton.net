@@ -34,7 +34,7 @@ pandoc = pandocCompilerWithTransform
 -- Create a new field from an existing one, replacing some characters
 -- with HTML entities so they display nicer.
 smarterField :: String -> Context String
-smarterField key = field ("smart_" ++ key) $ \i -> do
+smarterField key = field key $ \i -> do
                         value <- getMetadataField (itemIdentifier i) key
                         return $ maybe "" smarten value
 
@@ -124,7 +124,7 @@ mkFeed name renderer = create [fromFilePath name] $ do
 
 -- Miscellaneous contexts, could do with a clean up.
 listContext = dateField "date" "%F" <> pageCtx
-pageCtx = defaultContext <> smarterField "title"
+pageCtx = smarterField "title" <> defaultContext
 homeCtx = mkTitle "A Blog" <> pageCtx
 emptyField t = constField t ""
 mkTitle = constField "title"
