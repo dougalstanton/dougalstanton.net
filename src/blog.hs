@@ -4,6 +4,7 @@ module Main where
 import Data.Monoid ((<>))
 import Data.List (isPrefixOf)
 
+import Text.Pandoc.Options (writerHTMLMathMethod, HTMLMathMethod(..))
 import Text.Pandoc.Shared (headerShift)
 
 import Hakyll
@@ -28,7 +29,8 @@ feed = FeedConfiguration
 -- flexibility to write standalone Markdown documents but still
 -- include them in larger pages.
 pandoc = pandocCompilerWithTransform
-            defaultHakyllReaderOptions defaultHakyllWriterOptions
+            defaultHakyllReaderOptions
+            defaultHakyllWriterOptions { writerHTMLMathMethod = MathML Nothing }
             (headerShift 2) -- convert h1 to h3 etc.
 
 -- Create a new field from an existing one, replacing some characters
