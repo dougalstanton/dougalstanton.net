@@ -21,6 +21,22 @@ readable and concise as you could hope for.
 [star]: <http://xmlstar.sourceforge.net>
     "XML Starlet Command Line XML Toolkit"
 
+```bash
+xmlsed()
+{
+    ATTRIBUTE=$1
+    VALUE=$2
+    # A quick hack to update build variables used for debug images.
+    xmlstarlet edit --inplace --update \
+        '//storageModule[@name="Debug"]/macros/stringMacro[@name="'$ATTRIBUTE'"]/@value' \
+        -v $VALUE .cproject
+}
+
+xmlsed DATE_DD $(date +'%d')
+xmlsed COMPILEDBY $USER
+```
+
 Looking at the examples I have barely touched the surface of what can be
 done with this tool but I'm already pretty impressed with what can be
 achieved.
+
