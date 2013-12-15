@@ -672,6 +672,6 @@ song:
 
 Ijexa rhythm which goes something like this on the atabaque:
 
-    X XX OX XX OX XX OX
+    X XX O X  XX O X  XX O X
 
 where X=slap and O=rim
