@@ -18,6 +18,8 @@ I maintain a [GitHub repository](http://github.com/dougalstanton) with
 some hobby projects.
 
 *   [ComicBake](/pages/comicbake.html): for writing quick comics
+*   [Git Checklist](/pages/git-checklist.html): for tracking TODOs in
+    coding projects (or anything else you store in a git repository).
 *   Unix scripts & tools ([repo](http://github.com/dougalstanton/scripts))
 *   Functional Programming talk about code reuse of control flow
     constructs
