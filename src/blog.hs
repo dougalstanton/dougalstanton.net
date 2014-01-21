@@ -6,6 +6,8 @@ import Data.List (isPrefixOf)
 
 import Text.Pandoc.Options (writerHTMLMathMethod, HTMLMathMethod(..))
 import Text.Pandoc.Shared (headerShift)
+import qualified Text.Pandoc.Definition as P
+import qualified Text.Pandoc.Generic as P
 
 import Hakyll
 
@@ -28,10 +30,28 @@ feed = FeedConfiguration
 -- We can downshift the h1 headers to h3 headers, allowing the
 -- flexibility to write standalone Markdown documents but still
 -- include them in larger pages.
-pandoc = pandocCompilerWithTransform
-            defaultHakyllReaderOptions
-            defaultHakyllWriterOptions { writerHTMLMathMethod = MathML Nothing }
-            (headerShift 2) -- convert h1 to h3 etc.
+pandoc :: Compiler (Item String)
+pandoc = pandocIncluding []
+
+pandocIncluding :: [Item String] -> Compiler (Item String)
+pandocIncluding includes =
+    pandocCompilerWithTransform ropts wopts
+        (headerShift 2 . P.bottomUp (doInclude includes))
+    where
+        ropts = defaultHakyllReaderOptions
+        wopts = defaultHakyllWriterOptions { writerHTMLMathMethod = MathML Nothing }
+
+doInclude :: [Item String] -> P.Block -> P.Block
+doInclude includes cb@(P.CodeBlock (i, cs, namevals) _) =
+    case lookup "include" namevals of
+        Just path -> P.CodeBlock (i, cs, namevals)
+                                 (case lookup path allIncludes of
+                                       Just item -> itemBody item
+                                       Nothing   -> "Missing source file: " ++ path)
+        Nothing    -> cb
+    where
+        allIncludes = map (\i -> (toFilePath $ itemIdentifier i, i)) includes
+doInclude _ x = x
 
 -- Create a new field from an existing one, replacing some characters
 -- with HTML entities so they display nicer.
@@ -51,6 +71,9 @@ main :: IO ()
 main = hakyllWith config $ do
         match "templates/*" $
             compile templateCompiler
+
+        match "includes/**" $
+            compile getResourceBody
 
         match "style/*.css" $ do
             route idRoute
@@ -72,7 +95,8 @@ main = hakyllWith config $ do
 
         match "posts/*" $ do
             route   $ setExtension "html"
-            compile $ pandoc
+            compile $ loadAll "includes/**"
+                >>= pandocIncluding
                 >>= saveSnapshot "content"
                 >>= loadAndApplyTemplate "templates/page.html" pageCtx
                 >>= loadAndApplyTemplate "templates/default.html" pageCtx

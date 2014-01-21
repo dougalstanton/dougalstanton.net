@@ -2,7 +2,7 @@
 -- see http://haskell.org/cabal/users-guide/
 
 name:                blog
-version:             0.1.0.2
+version:             0.2.0.0
 -- synopsis:            
 -- description:         
 homepage:            http://dougalstanton.net
@@ -17,4 +17,10 @@ executable blog
   main-is:             blog.hs
   hs-source-dirs:      src
   -- other-modules:       
-  build-depends:       base ==4.6.*,hakyll==4.3.1.*,pandoc,filepath,process,text
+  build-depends:        base ==4.6.*,
+                        hakyll==4.3.1.*,
+                        pandoc,
+                        pandoc-types,
+                        filepath,
+                        process,
+                        text
