@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+
+if [ "$1" = "" ];
+then
+    echo "usage: preview path/to/draft.markdown"
+    exit 1
+fi
+
+if [ -e $1 ]
+then
+    DATE=$(date -v +1y +'%Y-01-01') # always a year in the future
+    POST=$(basename $1)
+    PUBLISHED=$DATE-$POST
+
+    # If the draft post is already being tracked just let git
+    # move it. Otherwise move it then add to the index.
+    # We get a scary warning if we don't redirect to null.
+    ln -s `pwd`/drafts/$POST `pwd`/posts/$PUBLISHED
+
+    echo "Post previewed"
+else
+    echo "File $1 cannot be found"
+fi
