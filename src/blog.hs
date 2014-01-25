@@ -4,6 +4,8 @@ module Main where
 import Data.Monoid ((<>))
 import Data.List (isPrefixOf)
 
+import System.Environment (getArgs, withArgs)
+
 import Text.Pandoc.Options (writerHTMLMathMethod, HTMLMathMethod(..))
 import Text.Pandoc.Shared (headerShift)
 import qualified Text.Pandoc.Definition as P
@@ -11,13 +13,19 @@ import qualified Text.Pandoc.Generic as P
 
 import Hakyll
 
-config = defaultConfiguration
+buildConfig = defaultConfiguration
           { deployCommand = "/Users/dougal/bin/deploy_blog"
           , destinationDirectory = "/Users/dougal/Documents/blog/_local"
           , providerDirectory = "/Users/dougal/Projects/dougalstanton.net"
           , storeDirectory = "/Users/dougal/Projects/dougalstanton.net/_cache"
           , tmpDirectory = "/Users/dougal/Projects/dougalstanton.net/_cache/tmp"
           }
+
+draftConfig = buildConfig
+    { destinationDirectory = "/Users/dougal/Documents/blog/_tmp"
+    , storeDirectory = "/Users/dougal/Documents/blog/_tmp/_cache"
+    , tmpDirectory = "/Users/dougal/Documents/blog/_tmp/_cache/tmp"
+    }
 
 feed = FeedConfiguration
         { feedTitle = "Looking Out To Sea"
@@ -68,7 +76,18 @@ smarten txt | null txt               = txt
 smarten (c:cs) = c:smarten cs
 
 main :: IO ()
-main = hakyllWith config $ do
+main = do
+    args <- getArgs
+    case args of
+     ("drafts":xs) -> withArgs ("build":xs) (blog True)
+     ("alldrafts":xs) -> withArgs ("rebuild":xs) (blog True)
+     _           -> blog False
+
+blog draftOnly =
+    let (config,posts) = if draftOnly
+                            then (draftConfig, "drafts/*")
+                            else (buildConfig, "posts/*")
+    in hakyllWith config $ do
         match "templates/*" $
             compile templateCompiler
 
@@ -93,7 +112,7 @@ main = hakyllWith config $ do
                 >>= loadAndApplyTemplate "templates/default.html" pageCtx
                 >>= relativizeUrls
 
-        match "posts/*" $ do
+        match posts $ do
             route   $ setExtension "html"
             compile $ loadAll "includes/**"
                 >>= pandocIncluding
@@ -105,7 +124,7 @@ main = hakyllWith config $ do
         match "index.html" $ do
             route idRoute
             compile $ do
-                posts <- fmap (take 15) . recentFirst =<< loadAll "posts/*"
+                posts <- fmap (take 15) . recentFirst =<< loadAll posts
                 let indexCtx = listField "posts" listContext (return posts)
                                     <> emptyField "title" <> listContext
                 getResourceBody
