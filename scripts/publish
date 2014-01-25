@@ -10,7 +10,11 @@ if [ -e $1 ]
 then
     DATE=$(date +'%F')
     POST=$(basename $1)
-    PUBLISHED=$DATE-$POST
+
+    # Starting at the 12th character, omitting the fake date
+    # before we insert the real one.
+    SLUG=$(basename $1 | cut -c 12-)
+    PUBLISHED=$DATE-$SLUG
 
     # If the draft post is already being tracked just let git
     # move it. Otherwise move it then add to the index.

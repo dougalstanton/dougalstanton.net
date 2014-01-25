@@ -2,7 +2,7 @@
 
 function makepost
 {
-cat <<EOF > $2
+cat <<EOF > 2000-01-01-$2
 ---
 title: $1
 tags:

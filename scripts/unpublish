@@ -11,8 +11,7 @@ then
         echo "Cannot find just-published file $PUBLISHED"
         exit 1
     fi
-    # start at 12th char, omitting the date: YYYY-MM-DD-
-    DRAFT=$(basename $PUBLISHED | cut -c 12-)
+    DRAFT=$(basename $PUBLISHED)
     git mv posts/$PUBLISHED drafts/$DRAFT
     echo "Post back in drafts as $DRAFT"
     rm $RECENT
