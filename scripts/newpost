@@ -2,7 +2,7 @@
 
 function makepost
 {
-cat <<EOF > 2000-01-01-$2
+cat <<EOF > $2
 ---
 title: $1
 tags:
@@ -15,7 +15,7 @@ then
     TITLE=$@
     # Convert everything to lower case ASCII (removes accents)
     SLUG=`tr '[:upper:] ' '[:lower:]-' <<< ${TITLE} | iconv -f utf8 -t ascii//TRANSLIT`
-    FILENAME=drafts/$SLUG.markdown
+    FILENAME=drafts/2000-01-01-$SLUG.markdown
     if [ ! -e $FILENAME ]
     then
         makepost "${TITLE}" "${FILENAME}"
