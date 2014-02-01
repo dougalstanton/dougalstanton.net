@@ -118,8 +118,8 @@ force the esquiva. With enough skill it can just be a flick of the hips...
 Variations on _Chama eu Angola_, citing Pastinha or Besouro instead of
 Angola.
 
-| Chama eu, chama eu
-| Chama eu Angola, chama eu
+> | Chama eu, chama eu
+> | Chama eu Angola, chama eu
 
 # 2013-04-19
 
@@ -145,14 +145,14 @@ you can role into into tesoura or rabo de arraia.
 
 A new song:
 
-| **Sobrado de Mam&atilde;e**
-|
-| O sobrado de mam&atilde;e &eacute; debaixo d'&aacute;gua
-| O sobrado de mam&atilde;e &eacute; debaixo d'&aacute;gua
-| Debaixo d'&aacute;gua por cima da areia
-|
-| _Tem ouro, tem prata_
-| _Tem diamante que nos alumeia_
+> | **Sobrado de Mam&atilde;e**
+> |
+> | O sobrado de mam&atilde;e &eacute; debaixo d'&aacute;gua
+> | O sobrado de mam&atilde;e &eacute; debaixo d'&aacute;gua
+> | Debaixo d'&aacute;gua por cima da areia
+> |
+> | _Tem ouro, tem prata_
+> | _Tem diamante que nos alumeia_
 
 
 # 2013-04-21 Charity roda
@@ -318,19 +318,19 @@ the need for the cabecada but isn't so flexible or elegant.
 And the lyrics to a couple of songs. This first one can also be _Angoleiro
 sou eu_ instead of _Capoeira sou eu_. I don't know about the verses.
 
-| **Quem vem l&aacute;? --- Sou eu**
-|
-| Quem vem la? Sou eu
-| Quem vem la? Sou eu
-| Berimbau bateu
-| Capoeira sou eu
+> | **Quem vem l&aacute;? --- Sou eu**
+> |
+> | Quem vem la? Sou eu
+> | Quem vem la? Sou eu
+> | Berimbau bateu
+> | Capoeira sou eu
 
 Second song, again no verse lyrics, sorry...
 
-| **Bal&atilde;o subiu, bal&atilde;o desceu**
-|
-| Balao subiu
-| Balao desceu
+> | **Bal&atilde;o subiu, bal&atilde;o desceu**
+> |
+> | Balao subiu
+> | Balao desceu
 
 # 2013-06-04 First day in The SPACE
 
@@ -490,17 +490,17 @@ doing anything else, singing or playing instrument.
     t f/h/f t f/h/f t f/h/f t f/h/f (original)
     t f/h/f t # # # t f/h/f t # # # (variation)
 
-| **Quando a mar&eacute; baixar**
-|
-| Quando a mar&eacute; baixar
-| Vou ver Juliana
-| Vou ver Juliana e
-| Vou ver Juliana
-|
-| _Quando a mar&eacute; baixar_
-| _Vou ver Juliana_
-| _Vou ver Juliana e_
-| _Vou ver Juliana_
+> | **Quando a mar&eacute; baixar**
+> |
+> | Quando a mar&eacute; baixar
+> | Vou ver Juliana
+> | Vou ver Juliana e
+> | Vou ver Juliana
+> |
+> | _Quando a mar&eacute; baixar_
+> | _Vou ver Juliana_
+> | _Vou ver Juliana e_
+> | _Vou ver Juliana_
 
 
 Second one is a bit faster and harder to get all the words out. "cair"
@@ -508,24 +508,24 @@ seems to rhyme with "Maria", something like "ka-yee-a". This version is
 much longer than the one we were singing but includes all the elements I
 think we were aiming towards.
 
-| **Ave Maria, Meu Deus**
-|
-| Ave Maria meu Deus, nunca vi casa nova cair
-| Nunca vi casa nova cair, nunca vi casa nova cair
-|
-| _Ave Maria meu Deus, nunca vi casa nova cair_
-|
-| Nunca vi angoleiro cair, nunca vi angoleiro cair
-|
-| _Ave Maria meu Deus, nunca vi casa nova cair_
-|
-| Nunca vi casa nova cair, nunca vi casa velha cair
-|
-| _Ave Maria meu Deus, nunca vi casa nova cair_
-|
-| Cair cair, nunca vi casa nova cair
-|
-| _Ave Maria meu Deus, nunca vi casa nova cair_
+> | **Ave Maria, Meu Deus**
+> |
+> | Ave Maria meu Deus, nunca vi casa nova cair
+> | Nunca vi casa nova cair, nunca vi casa nova cair
+> |
+> | _Ave Maria meu Deus, nunca vi casa nova cair_
+> |
+> | Nunca vi angoleiro cair, nunca vi angoleiro cair
+> |
+> | _Ave Maria meu Deus, nunca vi casa nova cair_
+> |
+> | Nunca vi casa nova cair, nunca vi casa velha cair
+> |
+> | _Ave Maria meu Deus, nunca vi casa nova cair_
+> |
+> | Cair cair, nunca vi casa nova cair
+> |
+> | _Ave Maria meu Deus, nunca vi casa nova cair_
 
 
 A small one-sided sequence which is slowly added to over the class.
@@ -605,17 +605,17 @@ legs and knees. If you first shift your hips so that you are side-on to
 your partner the underneath leg has a much better chance of pushing you
 upright.
 
-| E de ioio
-| E de iaia
-| Capoeira de angola jogada na beira do mar
+> | E de ioio
+> | E de iaia
+> | Capoeira de angola jogada na beira do mar
 
 # 2013-08-29
 
-| Pe de lima, pe de limao
-| O amor e meu ta dizendo que nao
-| Tao dizendo que nao, tao dizendo que nao
-| (or: Pe de limao, pe de limao, pe de limao)
-| Pe de lima, pe de limao
+> | Pe de lima, pe de limao
+> | O amor e meu ta dizendo que nao
+> | Tao dizendo que nao, tao dizendo que nao
+> | (or: Pe de limao, pe de limao, pe de limao)
+> | Pe de lima, pe de limao
 
 # 2013-09-03
 
@@ -636,37 +636,37 @@ next day.
 Work on attack and defence with faster rabo de arraia and martelo. Also a
 song:
 
-| **Canarinho da Alamanha**
-|
-| Canarinho da Alamanha, quem matou meu curi&oacute;
-| Canarinho da Alamanha, quem matou meu curi&oacute;
-|
-| _Canarinho da Alamanha, quem matou meu curi&oacute;_
-| _Canarinho da Alamanha, quem matou meu curi&oacute;_
-|
-| Canarinho da Alamanha, quem matou meu curi&oacute;
-| Eu jogo capoeira, mas meu mestre &eacute; melhor
-|
-| _Canarinho da Alamanha, quem matou meu curi&oacute;_
-| _Canarinho da Alamanha, quem matou meu curi&oacute;_
-|
-| Canarinho da Alamanha, quem matou meu curi&oacute;
-| O segredo da Lua quem sabe &eacute; o clar&atilde;o do Sol
-|
-| _Canarinho da Alamanha, quem matou meu curi&oacute;_
-| _Canarinho da Alamanha, quem matou meu curi&oacute;_
+> | **Canarinho da Alamanha**
+> |
+> | Canarinho da Alamanha, quem matou meu curi&oacute;
+> | Canarinho da Alamanha, quem matou meu curi&oacute;
+> |
+> | _Canarinho da Alamanha, quem matou meu curi&oacute;_
+> | _Canarinho da Alamanha, quem matou meu curi&oacute;_
+> |
+> | Canarinho da Alamanha, quem matou meu curi&oacute;
+> | Eu jogo capoeira, mas meu mestre &eacute; melhor
+> |
+> | _Canarinho da Alamanha, quem matou meu curi&oacute;_
+> | _Canarinho da Alamanha, quem matou meu curi&oacute;_
+> |
+> | Canarinho da Alamanha, quem matou meu curi&oacute;
+> | O segredo da Lua quem sabe &eacute; o clar&atilde;o do Sol
+> |
+> | _Canarinho da Alamanha, quem matou meu curi&oacute;_
+> | _Canarinho da Alamanha, quem matou meu curi&oacute;_
 
 # 2013-10-16
 
-| (1) Bei-ra mar, io io
-| (1) Bei-ra mar, ia ia
-| (4) Beira mar beira mar
-| (1) E de io io
-| (4) Beira mar beira mar
-| (1) E de ia ia
+> | (1) Bei-ra mar, io io
+> | (1) Bei-ra mar, ia ia
+> | (4) Beira mar beira mar
+> | (1) E de io io
+> | (4) Beira mar beira mar
+> | (1) E de ia ia
 
-| (3) Angola e e
-| (1) Angola e angola
+> | (3) Angola e e
+> | (1) Angola e angola
 
 # 2013-10-22
 
@@ -675,3 +675,75 @@ Ijexa rhythm which goes something like this on the atabaque:
     X XX O X  XX O X  XX O X
 
 where X=slap and O=rim
+
+# 2014-01-27 Music session
+
+It's been a couple months of radio silence but it seemed time to restart
+this journal after it was mentioned in class.
+
+Got together for a music session in the flat, playing together and
+rotating through instruments. Sang a few songs which I knew in part but
+it's good to concentrate on the details.
+
+> | **Bom Jesus da Lapa**
+> |
+> | (1) Bom Jesus da Lapa e
+> | (1) Bom Jesus da Lapa a
+> |
+> | _Bom Jesus da Lapa e_
+> | _Bom Jesus da Lapa a_
+> |
+> | (3) E--- (1) da Lapa
+> | (3) E--- (1) da Lapa
+> |
+> | _E--- da Lapa_
+> | _E--- da Lapa_
+
+This next one I'm less sure about the lyrics and timing. I might have to
+come back to it. I'm sure I've done it differently in the past.
+
+> | **Lembra e Lembra**
+> |
+> | (1) Lembra e lembra
+> | (2) Lembra do barro vermelho
+> | do barro vermelho lembra
+> |
+> | _Lembra e lembra_
+> | _Lembra do barro vermelho_
+
+Finally a totally new one for me, or at least one I didn't actually know
+the lyrics for at all but have mumbled along in the past.
+
+> | **Santo Antonio e Protetor**
+> | 
+> | Santo Antonio e protetor
+> | Da barquinh&aacute; de Noel
+> |
+> | _Santo Antonio e protetor_
+
+There were some other lyrics but I don't have them to hand.
+
+Music wise the main thing I got out was concentrating on a clean entry.
+Trying to keep the rhythm fixed in my head and letting my hands
+independently deal with a call, then bringing the two together at the
+right moment. Not easy but I felt like I made a step up within the last
+week. No doubt it will disappear next time I try it.
+
+# 2014-01-30
+
+Freezing cold training session in the Overnewton. Recently we've been
+working on stepping in/spinning out and curling round. Part of this I
+remember being [very briefly covered by CM Papa
+Leguas](#cdo-with-cm-papa-leguas). It's still not any easier after all
+this time.
+
+We moved onto partner work combining ben&ccedil;ao and evasions by
+bending backwards. I still think I'm a long way from being able to
+instinctively pull this one off in a game but it felt much easier than
+it has in the past.
+
+    Bencao / Back bend and drop to floor, one foot flat
+           \ Rasteira opponent's kicking leg from ground
+
+The hardest part was evading underneath the kicking leg rather than away
+so that I will still in a good position to attempt the rasteira.
