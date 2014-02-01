@@ -676,6 +676,25 @@ Ijexa rhythm which goes something like this on the atabaque:
 
 where X=slap and O=rim
 
+# 2014-01-26 Two Rodas
+
+First M&atilde;o No Ch&atilde;o charity roda of the year, for the Red
+Cross Syriah appeal. The usual Cutting Room venue.
+
+Senzala also had an event in "Shapes Studio" on Arther Street earlier in
+the afternoon so I went in there too. I was the only non-Senzala person
+but they were a friendly bunch and there were a few faces I recognised
+from [the previous Glasgow Senzala
+event](/posts/2013-11-09-roda-with-glasgow-senzala-and-professor-ourico.html).
+I didn't manage to convince anyone to follow me on to the charity roda
+but there were a few people who were at least interested in the concept
+and impressed about the fundraising nature of it, so I think there may
+be scope for outreach there.
+
+I played gunga for a bit at the Senzala roda too --- definitely the
+first time I'd felt confident enough to offer and let someone else play
+a few games.
+
 # 2014-01-27 Music session
 
 It's been a couple months of radio silence but it seemed time to restart
