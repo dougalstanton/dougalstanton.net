@@ -36,6 +36,11 @@ p
     margin-left: auto;
     margin-right: auto;
 }
+.caption {
+    margin: 0;
+    font-style: italic;
+    font-size: 80%;
+}
 .post_list
 {
     padding: 0;
