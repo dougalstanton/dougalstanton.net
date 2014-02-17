@@ -21,5 +21,5 @@ then
         makepost "${TITLE}" "${FILENAME}"
     fi
     # Open editor at text 'tags' ready to insert a tag
-    vim +/tags ${FILENAME}
+    mvim "+call VimWriteRoom()" +/tags ${FILENAME}
 fi
