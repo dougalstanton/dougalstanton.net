@@ -9,7 +9,7 @@ weather continues like this I'm going to be wearing a lot less on the
 slopes than I initially thought.
 
 I spent the morning and afternoon with [&Eacute;cole du Ski
-Frani&ccedil;ais] [esf] as an "adulte debutant" --- ie, adult beginner.
+Fran&ccedil;ais] [esf] as an "adulte debutant" --- ie, adult beginner.
 I'm slowly dredging up bits of French and learning new words (_batons_
 for ski poles and _casque_ for helmet). The instructors would translate
 things into English but on many occasions it wasn't necessary.
