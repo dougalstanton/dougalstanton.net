@@ -765,4 +765,29 @@ it has in the past.
            \ Rasteira opponent's kicking leg from ground
 
 The hardest part was evading underneath the kicking leg rather than away
-so that I will still in a good position to attempt the rasteira.
+so that I was still in a good position to attempt the rasteira.
+
+# 2014-03-27 Dion
+
+First class back after skiing holiday and a cold. Felt pretty rusty and as usual felt way out of my depth in Dion's classes.
+
+There was a lot of emphasis on ginga, expressive movement and having a self-expressive approach to capoeira which I'm always called out for not having.
+
+*    Ginga opposite your partner maintaining a steady position and distance. The guide for this was to have one person hook their hand into the front of the belt of the other person. Also there was some "ginga on broken glass" and "drunken master ginga" metaphors.
+*    With the ginga add in a "cheeky rasteira" (probably not a legit technical term) with the outside of the foot on the same side as the foot you're sweeping. So the outside of your right foot would catch the inside of their left foot to unbalance in the ginga.
+*    The person having their foot swept can go with the motion, using the sweep to spin round on the other leg and perform a chapa with the leg that was being rasteira'd.
+
+A slight change of tack next with meia lua de frente and cabe&ccedil;ada, though it still works into the same spin-to-chapa from the previous sequence.
+
+    Meia lua de frente / Esquiva, return to centre
+    Cabe&ccedil;ada / Step back, turn
+                    \ Chapa
+
+The "step back, turn" step was tricky enough that I don't think I got it right. It was a kind of half turn and then that intertwining leg thing to bring the weight under the other leg, so the leg furthest away can be used for the kick. 
+
+Next were intertwining sequences of meia lua, front and back:
+
+    Meia lua de frente, step across /
+                                    \ meia lua de costas
+
+Other things: fast, solid au, getting through the arc with as little trunk movement as possible. With a solid trunk you're not only more stable in the case of being pushed but you can come back up quicker. This seems a good one to train. Also some more ponte stuff which I'm still totally terrible at.
