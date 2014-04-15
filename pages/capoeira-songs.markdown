@@ -4,6 +4,53 @@ title: Capoeira Songs
 
 Chorus _in italics_
 
+# Chama eu Angola (1)
+
+| Chama eu, chama eu
+| Chama eu Angola, chama eu
+|
+| _Chama eu, chama eu_
+| _Chama eu Angola, chama eu_
+
+# Eu vou sessar (1)
+
+| Oo eu vou sessar
+| areia no mar
+|
+| _eu vou sessar_
+|
+| areia no mar
+
+# Apanha Areia
+
+| Vamos apanhar are
+| Vamos apanhar areia no mar
+|
+| _Vamos apanhar are_
+| _Vamos apanhar areia no mar_
+
+# Na Beira Do Mar (4)
+
+| E de io io
+| E de ia ia
+| Capoeira de angola jogada na beira do mar
+|
+| _(repeat)_
+
+# Saia Do Mar, Marinheiro
+
+| Saia do mar, saia do mar marinheiro
+|
+| _Saia do mar, saia do mar marinheiro_
+| 
+| Saia do mar marinheiro, saia do mar estrangeiro
+|
+| _Saia do mar, saia do mar marinheiro_
+|
+| Saia do mar marinheiro, vem vadiar angoleiro
+| 
+| _Saia do mar, saia do mar marinheiro_
+
 # Madeira de Massaranduba
 
 | Madeira de massaranduba
