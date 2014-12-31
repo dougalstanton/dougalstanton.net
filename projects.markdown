@@ -12,6 +12,12 @@ some notes here of things I've learned.
 *   [Song lyrics](/pages/capoeira-songs.html)
 *   [Rhythms](/pages/capoeira-rhythms.html)
 
+# BJJ
+
+I train with [Cross Combat](http://crosscombat.co.uk) and try to keep notes/thoughts here from the classes.
+
+*   [Training diary](/pages/bjj-training-diary.html)
+
 # Code etc.
 
 I maintain a [GitHub repository](http://github.com/dougalstanton) with
