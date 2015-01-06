@@ -2,7 +2,7 @@
 title: BJJ Training Diary
 ---
 
-A collection of notes and thoughts from learning jiujitsu at [Cross Combat] [cc] in Tollcross.
+A collection of notes and thoughts from learning jiujitsu at [Cross Combat] [cc] in Tollcross. I'm not going to concentrate too heavily on techniques because there's no way I could hope describe even what I can remember. Just look at YouTube.
 
 [cc]: <http://www.crosscombat.co.uk> "Cross Combat home page"
 
@@ -15,4 +15,23 @@ Several weeks ago I was injured but attended a class to listen and watch from th
 It's hard to keep remembering, that's certainly true. In the moment when someone's grabbing your arm and you've a reasonable idea what they want to do with your arm --- then it's hard not to just **push** as hard as you can to oppose them. But I'll say this, on the brief occasions where the initial instinct was stopped (because position/angle/weight meant that I couldn't just push back) and I took a moment to think, and then remembered the advice, at that point it generally worked. Which is both gratifying (because nothing else seems to work) and infuriating (because it's so hard to remember even though it's simple and effective).
 
 The flipside of the lesson was taking and maintaining control on top. Being close and heavy enough when you want to put pressure on the other person but also being light enough that you can maintain control of your own body as the other person shifts and rolls underneath. Letting them make a move and stay above them. Closing distance and being in contact was really hard. Being light and moving around the person maintain height on them was easier. I felt generally quite agile today when it came to moving and shifting to follow, though as I say not quick enough to always be in close contact when the moment demanded it.
+
+# 2015-01-05
+
+First class of the new year; and absolutely jammed with people both old and new. The number of new people that come in the door once and never come back is amazing. It happened at capoeira too but it happened less often that it wasn't so obvious. But with at least one beginner every single session at BJJ it's relentless and slightly fascinating. What are people's thoughts when they arrive? Do they really enjoy it --- have they in fact decided they'll not return by the time their first class finishes?
+
+I sometimes wonder if the second session is harder to attend than the first. Even if the first one went really well there's that niggling thought that a sample of one isn't representative. Maybe the next one will be too hard? Maybe everyone was going easy on you because it was your first lesson? Now you've got precedent and have to live up to your first impressions.
+
+Anyway, this class we did **mount and mount escapes**. Which I guess you could say is the logical extension from the previous class:
+
+*   from moving into partner's space, to pushing to create space
+*   from staying on top, to pressing down and restricting partner's movement
+
+Obviously this is only apparent with hindsight.
+
+I felt my lightness was a handicap today. Last week I felt agile and capable of rebalancing when necessary. But when trying to maintain pressure on top I just lost all of that agility and was very often pitched sideways into the mat. I guess there's some halfway house, quickly transitioning between 'light' and 'heavy' as the moment requires it. Or to put it another way, learn to control in a more dynamic fashion --- I felt quite static on top --- "hold on for dear life", riding a bucking bronco. That was clearly not what the previous lesson was trying to impart.
+
+The mount escapes to half guard seemed more positive. I felt genuine progress there from a position where I had previously felt quite lost/incapable.
+
+The sparring also went quite well, only being tapped out twice I think. I was managing lots of escapes that I hadn't previously managed, especially from rear chokes and armlocks. My major failing at the moment is total inability to progress when I get to guard, which is quite exhausting on its own. I know we've done armbars and omoplatas from there but I have no idea how.
 
