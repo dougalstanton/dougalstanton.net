@@ -35,3 +35,13 @@ The mount escapes to half guard seemed more positive. I felt genuine progress th
 
 The sparring also went quite well, only being tapped out twice I think. I was managing lots of escapes that I hadn't previously managed, especially from rear chokes and armlocks. My major failing at the moment is total inability to progress when I get to guard, which is quite exhausting on its own. I know we've done armbars and omoplatas from there but I have no idea how.
 
+# 2015-01-08
+
+Today's general focus was **butterfly sweep** which was at least as difficult as it looks. I could sometimes manage it while drilling but if the person was really trying to resist then I didn't have a chance. This was quite apparent in sparring at the end --- while we always started in "position of the week"\* I was quickly broken and any attempt at performing the sweep was a total washout (hurray).
+
+\* Not too dissimilar to More! Magazine's features, on reflection.
+
+Otherwise I really think I need to spend more time breaking the habits of the less five years and being close. All my instinct from capoeira is telling me to be placed and stable on arms and legs but really I know I'm supposed to weigh down on my opponent if possible, surfing them to maintain balance. My inability to do this is the same problem I had doing "contact improvisation" --- always wanting to be standing on hands or feet or both. I think this ultimately makes me more prone to being thrown aside.
+
+And while it's not really in the spirit of things, I want to take a small moment to commemorate my first submission. I've had several classes where I'm beginning to defend manoeuvres which once would have finished me. It's great to last several minutes instead of several seconds. But this shows that I can also, under limited circumstances, go on the offensive. I'm not pretending it was an elegant or technically brilliant submission but the fact of its existence is a small victory.
+
