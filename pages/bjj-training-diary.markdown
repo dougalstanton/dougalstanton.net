@@ -6,7 +6,7 @@ A collection of notes and thoughts from learning jiujitsu at [Cross Combat] [cc]
 
 [cc]: <http://www.crosscombat.co.uk> "Cross Combat home page"
 
-# 2014-12-30
+# 2014-12-30: Using space
 
 Second last day of the year and I finally get around to writing down stuff we've been training. I've got a sore windpipe at the moment from a slapdash choke attempt --- tilting my head to the left hurts the right-hand side of my windpipe. I guess it's a pretty delicate piece of machinery.
 
@@ -16,7 +16,7 @@ It's hard to keep remembering, that's certainly true. In the moment when someone
 
 The flipside of the lesson was taking and maintaining control on top. Being close and heavy enough when you want to put pressure on the other person but also being light enough that you can maintain control of your own body as the other person shifts and rolls underneath. Letting them make a move and stay above them. Closing distance and being in contact was really hard. Being light and moving around the person maintain height on them was easier. I felt generally quite agile today when it came to moving and shifting to follow, though as I say not quick enough to always be in close contact when the moment demanded it.
 
-# 2015-01-05
+# 2015-01-05: Top mount
 
 First class of the new year; and absolutely jammed with people both old and new. The number of new people that come in the door once and never come back is amazing. It happened at capoeira too but it happened less often that it wasn't so obvious. But with at least one beginner every single session at BJJ it's relentless and slightly fascinating. What are people's thoughts when they arrive? Do they really enjoy it --- have they in fact decided they'll not return by the time their first class finishes?
 
@@ -35,13 +35,21 @@ The mount escapes to half guard seemed more positive. I felt genuine progress th
 
 The sparring also went quite well, only being tapped out twice I think. I was managing lots of escapes that I hadn't previously managed, especially from rear chokes and armlocks. My major failing at the moment is total inability to progress when I get to guard, which is quite exhausting on its own. I know we've done armbars and omoplatas from there but I have no idea how.
 
-# 2015-01-08
+# 2015-01-08: Butterfly sweep
 
 Today's general focus was **butterfly sweep** which was at least as difficult as it looks. I could sometimes manage it while drilling but if the person was really trying to resist then I didn't have a chance. This was quite apparent in sparring at the end --- while we always started in "position of the week"\* I was quickly broken and any attempt at performing the sweep was a total washout (hurray).
 
-\* Not too dissimilar to More! Magazine's features, on reflection.
+\*Not too dissimilar to More! Magazine's features, on reflection.
 
 Otherwise I really think I need to spend more time breaking the habits of the less five years and being close. All my instinct from capoeira is telling me to be placed and stable on arms and legs but really I know I'm supposed to weigh down on my opponent if possible, surfing them to maintain balance. My inability to do this is the same problem I had doing "contact improvisation" --- always wanting to be standing on hands or feet or both. I think this ultimately makes me more prone to being thrown aside.
 
 And while it's not really in the spirit of things, I want to take a small moment to commemorate my first submission. I've had several classes where I'm beginning to defend manoeuvres which once would have finished me. It's great to last several minutes instead of several seconds. But this shows that I can also, under limited circumstances, go on the offensive. I'm not pretending it was an elegant or technically brilliant submission but the fact of its existence is a small victory.
+
+# 2015-01-12: Upness
+
+Did this class with a cycling-related injury in my left wrist so I wasn't really on top form. The focus was **upness**, being above (if not on top) of your opponent. The intention was maintaining that constant-pressure-with-flexibility that we effectively cover in every class. There was no obvious technique as part of the drill --- just moving from half-guard to being on top.
+
+My biggest trouble while doing these exercises is that I start in position A and then hold on for dear life until I'm eventually swept. But the spirit of the exercise seems to be starting from A, transitioning through B, C, F, back to C then D and so on as the other person demands it. Learning to *flow* with their pushes and pulls but recover and re-assert dominance, rather than *fall* to the inevitable better opponent.
+
+All that aside my wrist couldn't really take any weight so I was doing a lot of pushing with my left elbow/forearm instead. At the end of the class I managed what felt like quite an effective escape from half guard but then my training partner dropped on my ankle at a funny angle and I had to call it a night. There was no way I was really up for the full sparring anyway. Limping home was hard enough at that point.
 
