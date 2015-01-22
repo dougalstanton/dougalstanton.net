@@ -53,3 +53,12 @@ My biggest trouble while doing these exercises is that I start in position A and
 
 All that aside my wrist couldn't really take any weight so I was doing a lot of pushing with my left elbow/forearm instead. At the end of the class I managed what felt like quite an effective escape from half guard but then my training partner dropped on my ankle at a funny angle and I had to call it a night. There was no way I was really up for the full sparring anyway. Limping home was hard enough at that point.
 
+# 2015-01-22 Open Guard Pass
+
+The usual story about upness through the medium of **passing the open guard** and closing distance on the opponent to gain some kind of side control or mount.
+
+Not much technical again, just experimentation. Things to note was my habit (when defending) of being quite passive and waiting to see what the other person did. Being more active seems sensible: trying to predict their movements and trying to imbalance them so they have no stable starting point from which to move.
+
+Being more aggressive while sparring seemed to help too though it just led to lots of stalling. Once the other person has turtled I need to really think "get onto them, turn around so I've got their head" to get out of this stalling.
+
+When I'm trapped in mount I always forget to bridge which is really silly but there you go.
