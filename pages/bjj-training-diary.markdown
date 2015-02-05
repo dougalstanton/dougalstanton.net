@@ -62,3 +62,14 @@ Not much technical again, just experimentation. Things to note was my habit (whe
 Being more aggressive while sparring seemed to help too though it just led to lots of stalling. Once the other person has turtled I need to really think "get onto them, turn around so I've got their head" to get out of this stalling.
 
 When I'm trapped in mount I always forget to bridge which is really silly but there you go.
+
+# 2015-02-02 Scissor sweep (?)
+
+I sat this one out which is a shame because it looked pretty interesting. It was covering a sweep from guard that I *think* is called **scissor sweep** though it wasn't explicitly mentioned. It matches fairly closely the descriptions found elsewhere and there was a bit of emphasis on "scissor action" with the legs at one point. I've definitely covered this once before in class but I'd like a chance to cover it again.
+
+Details that seemed important from observation:
+
+*   Holding the person's upper body close puts them off balance. If they've managed to get upright they have much better self-control. Hold onto the arm on their falling side to keep them close and prevent them posting.
+*   To lift the raised leg up point your own knee up!
+*   If the sideways sweep is too hard then pushing it away is easier.
+
