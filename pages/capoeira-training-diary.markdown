@@ -791,3 +791,10 @@ Next were intertwining sequences of meia lua, front and back:
                                     \ meia lua de costas
 
 Other things: fast, solid au, getting through the arc with as little trunk movement as possible. With a solid trunk you're not only more stable in the case of being pushed but you can come back up quicker. This seems a good one to train. Also some more ponte stuff which I'm still totally terrible at.
+
+# 2015-02-21 Mestre Fantasma workshop, Edinburgh
+
+First time I've been to a workshop with one apparent focus, in this case observation of the other player. The session involved a progressive resistance of analysing the ginga and sweeping the foot at the right moment. At the end of the day was a training roda to put the training in to practice, but not to ignore the training entirely and play a normal game. 
+
+It was pretty taxing. One of the hardest parts was getting into the mindset of co-operative resistance, which is common at the BJJ class but quite unusual for capoeira --- in fact I think this was the first time I've seen it explicitly emphasised. It was clear that many people struggled getting in to this mindset because it is so different. Having Fantasma's students, Tim and SJ, demonstrate what was meant at the end of the Saturday class made it clear how wrong we had been getting it, even as we were working towards the right thing. As soon as you get into the situation of a roda then the history of everything you've learned takes over and over-rides the bit you're supposed to be working on.
+
