@@ -53,7 +53,7 @@ My biggest trouble while doing these exercises is that I start in position A and
 
 All that aside my wrist couldn't really take any weight so I was doing a lot of pushing with my left elbow/forearm instead. At the end of the class I managed what felt like quite an effective escape from half guard but then my training partner dropped on my ankle at a funny angle and I had to call it a night. There was no way I was really up for the full sparring anyway. Limping home was hard enough at that point.
 
-# 2015-01-22 Open Guard Pass
+# 2015-01-22: Open Guard Pass
 
 The usual story about upness through the medium of **passing the open guard** and closing distance on the opponent to gain some kind of side control or mount.
 
@@ -63,7 +63,7 @@ Being more aggressive while sparring seemed to help too though it just led to lo
 
 When I'm trapped in mount I always forget to bridge which is really silly but there you go.
 
-# 2015-02-02 Scissor sweep (?)
+# 2015-02-02: Scissor sweep (?)
 
 I sat this one out which is a shame because it looked pretty interesting. It was covering a sweep from guard that I *think* is called **scissor sweep** though it wasn't explicitly mentioned. It matches fairly closely the descriptions found elsewhere and there was a bit of emphasis on "scissor action" with the legs at one point. I've definitely covered this once before in class but I'd like a chance to cover it again.
 
@@ -73,3 +73,8 @@ Details that seemed important from observation:
 *   To lift the raised leg up point your own knee up!
 *   If the sideways sweep is too hard then pushing it away is easier.
 
+# 2015-02-19: High mount
+
+Maintaining control with lots of pressure right up at the person's head, or conversely trying to push the other person off from the **high mount** position. It's easier to gain leverage from the bottom with elbows low at your sides, and harder with arms high and elbows pointing up. Which is interesting because instinctively you'd be inclined to keep your arms high over your head/face for protection.
+
+From mount maintaining pressure is really important but I couldn't achieve control from that position without sacrificing freedom to attempt submissions. I was clamped-on in high mount and not letting go --- but not achieving much either. Eventually the timer would end or I would get tossed aside.
