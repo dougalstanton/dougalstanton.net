@@ -11,6 +11,7 @@ some notes here of things I've learned.
 *   [Training diary](/pages/capoeira-training-diary.html)
 *   [Song lyrics](/pages/capoeira-songs.html)
 *   [Rhythms](/pages/capoeira-rhythms.html)
+*   [Training ideas](/pages/capoeira-training-ideas.html)
 
 # BJJ
 
