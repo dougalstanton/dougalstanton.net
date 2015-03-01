@@ -78,3 +78,9 @@ Details that seemed important from observation:
 Maintaining control with lots of pressure right up at the person's head, or conversely trying to push the other person off from the **high mount** position. It's easier to gain leverage from the bottom with elbows low at your sides, and harder with arms high and elbows pointing up. Which is interesting because instinctively you'd be inclined to keep your arms high over your head/face for protection.
 
 From mount maintaining pressure is really important but I couldn't achieve control from that position without sacrificing freedom to attempt submissions. I was clamped-on in high mount and not letting go --- but not achieving much either. Eventually the timer would end or I would get tossed aside.
+
+# 2015-02-26 Triangle
+
+Mostly covering triangle escape, or triangle survival maybe. Either way I don't think I really managed it in earnest.
+
+Tried a scissor sweep in sparring, totally failed. Why? I realise in hindsight I didn't have control of the person's upper body. They were stable and upright but I should have had them stretched out and unbalanced. But it is interesting to spot my mistake. My total inability to do anything other than hold on for dear life once someone's in my closed guard is a real problem. It becomes a danger to me; when I eventually end up there I have no escape. In fact I'm almost more confident escaping from bottom of mount. At least I have approaches to take.
