@@ -79,8 +79,15 @@ Maintaining control with lots of pressure right up at the person's head, or conv
 
 From mount maintaining pressure is really important but I couldn't achieve control from that position without sacrificing freedom to attempt submissions. I was clamped-on in high mount and not letting go --- but not achieving much either. Eventually the timer would end or I would get tossed aside.
 
-# 2015-02-26 Triangle
+# 2015-02-26: Triangle
 
-Mostly covering triangle escape, or triangle survival maybe. Either way I don't think I really managed it in earnest.
+Mostly covering **triangle escape**, or triangle survival maybe. Either way I don't think I really managed it in earnest.
 
 Tried a scissor sweep in sparring, totally failed. Why? I realise in hindsight I didn't have control of the person's upper body. They were stable and upright but I should have had them stretched out and unbalanced. But it is interesting to spot my mistake. My total inability to do anything other than hold on for dear life once someone's in my closed guard is a real problem. It becomes a danger to me; when I eventually end up there I have no escape. In fact I'm almost more confident escaping from bottom of mount. At least I have approaches to take.
+
+# 2015-03-02: Armbar
+
+Work getting comfortable in armbar from guard, and 3D rotations from the same configuration. The position holding the armbar while you're "stacked" on your own head is not at all comfortable. And the escape we practised was to stack the person, stop them rotating around/away and lifting their head/neck off the mat.
+
+The tricky point was managing any of the manoeuvre while keeping hold of the arm. Really holding the body down (eg by the calf on the neck) helps but getting fluidly into position without losing that grip is still really hard.
+
