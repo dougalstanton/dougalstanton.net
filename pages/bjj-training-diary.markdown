@@ -91,3 +91,7 @@ Work getting comfortable in armbar from guard, and 3D rotations from the same co
 
 The tricky point was managing any of the manoeuvre while keeping hold of the arm. Really holding the body down (eg by the calf on the neck) helps but getting fluidly into position without losing that grip is still really hard.
 
+# 2015-03-5: Armbar, Triangle, Omoplata
+
+Really good class today, focussing on slipping from one submission to another as the situation demands it, and spotting the situations as they appear too. The hardest out of all three is still definitely the **arm bar**: the spin on the back is still so difficult.
+
