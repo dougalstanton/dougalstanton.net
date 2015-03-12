@@ -95,3 +95,10 @@ The tricky point was managing any of the manoeuvre while keeping hold of the arm
 
 Really good class today, focussing on slipping from one submission to another as the situation demands it, and spotting the situations as they appear too. The hardest out of all three is still definitely the **arm bar**: the spin on the back is still so difficult.
 
+# 2015-03-12: Kimura, Guillotine, Sweep
+
+Two submissions and a **sweep** whose name I can't remember --- was it mentioned? --- involving climbing up the person in your guardand tipping to one side. As if you were trying for either of the two submissions but just driving through instead.
+
+Important details, as ever, would be hips turning or moving somewhere else. The **kimura** was about lying on your side so you could really hold them down with one leg. The similarity to omoplata at this angle was quite apparent. I think if you let go of the arm and caught it in the fork of your legs you'd have an omoplata though I'd have to see it to be sure. The **guillotine** was based on moving hips away then falling sideways.
+
+As before I'm feeling pretty slack and uninspired in sparring. I can't think quickly and I don't move quickly. And I do it all wrong anyway?
