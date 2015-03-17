@@ -95,3 +95,12 @@ The tricky point was managing any of the manoeuvre while keeping hold of the arm
 
 Really good class today, focussing on slipping from one submission to another as the situation demands it, and spotting the situations as they appear too. The hardest out of all three is still definitely the **arm bar**: the spin on the back is still so difficult.
 
+# 2015-03-16: Omoplata, Triangle
+
+Working submissions from **tight control in closed guard**. As usual maintaining the chosen posture is very important --- in this case by hooking an arm over theirs and underneath their arm pit. Holding this arm/shoulder tight allows you keep them spread out and unbalanced. Controlling the other arm with elbows, hands, knees and feet (in turn) keeps the person stretched out.
+
+The arm which is controlled tight is the arm being attacked for both submissions but you don't really get round to it first. Once the person is stretched out with your leg partly on their back you just bring it down over their head to trap their arm between your legs. Then you just spin round into **omoplata**.
+
+Similarly with the **triangle** the arm that is in the overhook will be inside the choke. The arm that is stretched out will eventually be forced underneath your leg so you can concentrate on the remaining arm and head. From there you have to break their posture and bring the trapped arm across their body. Spin round in line with the trapped arm and lock on the triangle.
+
+As usual the practise of locking on a nice triangle against a co-operating partner and against a resisting opponent is a world of difference. Generally the class felt good for me though I still have great issue when it comes to passing or not being passed in the guard.
