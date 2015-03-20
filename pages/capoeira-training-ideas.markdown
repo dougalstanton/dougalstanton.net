@@ -29,4 +29,6 @@ Stolen from Fantasma. This can probably be adapted for any pair of ginga/rasteir
 3. Better defence: using observation to pull the foot. (Energy.)
 4. Full ginga. Defender can withdraw/weight foot as necessary to thwart attacker.
 
-More to come when I've given it some thought...
+# Space control and Balance
+
+I'm picturing something like a small circle, maybe 2m across. The aim is to move round the circle claiming space or escaping into space without using attacks, only "moving" the other person.
