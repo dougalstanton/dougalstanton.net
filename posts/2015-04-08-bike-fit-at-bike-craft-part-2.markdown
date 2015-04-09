@@ -3,7 +3,9 @@ title: Bike fit at Bike Craft (part 2)
 tags: cycling
 ---
 
-It's been a month since my bike fit and re-adjustment at Bike Craft. Their loaned seat-post was swapped for a shiny new one[^1](Should it be possible to be impressed by a seat post? Is this healthy?) and I'm slowly getting accustomed to the riding position.
+It's been a month since my bike fit and re-adjustment at Bike Craft. Their loaned seat-post was swapped for a shiny new one[^1] and I'm slowly getting accustomed to the riding position.
+
+[^1]: Should it be possible to be impressed by a seat post? Is this healthy?
 
 I have not gone for any very long rides --- nothing longer than my usual trips from Haymarket station or BJJ class. There is still the slightest hint of pain when I push the limits for an extended period but this is what I'd expect. Under normal circumstances I think that *should* happen: if it doesn't hurt when you're going flat out then are you really going flat out?
 
