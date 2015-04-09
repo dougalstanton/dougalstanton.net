@@ -113,7 +113,7 @@ Similarly with the **triangle** the arm that is in the overhook will be inside t
 
 As usual the practise of locking on a nice triangle against a co-operating partner and against a resisting opponent is a world of difference. Generally the class felt good for me though I still have great issue when it comes to passing or not being passed in the guard.
 
-2015-04-02: Guillotine
+# 2015-04-02: Guillotine
 
 Off for a week --- a whole week! --- getting drunk and fat in France. So while it turns out that neither bjj or capoeira require much in the way of equipment to have fun, they're still too damn obscure. I was pretty jealous of the people who went out running.
 
@@ -123,7 +123,7 @@ Losing control is letting the person's head slip through so you can see their ha
 
 Locking on the guillotine is binding the hands (by their ear/your sternum) and pushing the elbow of your non-headlocking-arm forward so the forearm lies down their spine. That's a pretty satisfying mental image for some reason so I think I will be less likely to forget it than other "wee details".
 
-2015-04-07
+# 2015-04-07
 
 William back to teach us about staying on top by not falling over. I know, right?
 
@@ -136,4 +136,14 @@ Another alternative that worked to a lesser extent was turning the shoulders ove
 It strikes me now that turning the person by the shoulders like that also likely provides better control of their arms. You can bind up for an armlock (probably americana) before their shoulders are even on the mat.
 
 Sparring-wise I was initially more balanced but soon tired and ended up on bottom getting nowhere fast. Not much more to say than, for all the day's exercises, I was still doing the escape from mount all wrong.
+
+# 2015-04-09: Hooks
+
+I nearly didn't attend because I'm pushing through the far end of a cold and I knew I would not have stamina to do a hardcore class --- or the constitution to do more guillotine work, if it came to that.
+
+But I am very glad I went in the end. It was quite a small, skill-oriented class focussing on hooking with the feet, as in butterfly guard or various open guard positions.
+
+I didn't spar anyone who was very hard or heavy at the end; cowardice or wisdom, you decide. But I felt either challenged, able to work technical details or think through the position methodically without being crushed or exhausted.
+
+The value of the hooks really became apparent in the last round of sparring as we continually disconnected and my partner tried to pass my guard from standing. The details of hooking feet and hands to control as much as possible was really powerful.
 
