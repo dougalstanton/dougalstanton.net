@@ -102,3 +102,38 @@ Two submissions and a **sweep** whose name I can't remember --- was it mentioned
 Important details, as ever, would be hips turning or moving somewhere else. The **kimura** was about lying on your side so you could really hold them down with one leg. The similarity to omoplata at this angle was quite apparent. I think if you let go of the arm and caught it in the fork of your legs you'd have an omoplata though I'd have to see it to be sure. The **guillotine** was based on moving hips away then falling sideways.
 
 As before I'm feeling pretty slack and uninspired in sparring. I can't think quickly and I don't move quickly. And I do it all wrong anyway?
+
+# 2015-03-16: Omoplata, Triangle
+
+Working submissions from **tight control in closed guard**. As usual maintaining the chosen posture is very important --- in this case by hooking an arm over theirs and underneath their arm pit. Holding this arm/shoulder tight allows you keep them spread out and unbalanced. Controlling the other arm with elbows, hands, knees and feet (in turn) keeps the person stretched out.
+
+The arm which is controlled tight is the arm being attacked for both submissions but you don't really get round to it first. Once the person is stretched out with your leg partly on their back you just bring it down over their head to trap their arm between your legs. Then you just spin round into **omoplata**.
+
+Similarly with the **triangle** the arm that is in the overhook will be inside the choke. The arm that is stretched out will eventually be forced underneath your leg so you can concentrate on the remaining arm and head. From there you have to break their posture and bring the trapped arm across their body. Spin round in line with the trapped arm and lock on the triangle.
+
+As usual the practise of locking on a nice triangle against a co-operating partner and against a resisting opponent is a world of difference. Generally the class felt good for me though I still have great issue when it comes to passing or not being passed in the guard.
+
+2015-04-02: Guillotine
+
+Off for a week --- a whole week! --- getting drunk and fat in France. So while it turns out that neither bjj or capoeira require much in the way of equipment to have fun, they're still too damn obscure. I was pretty jealous of the people who went out running.
+
+Hoss teaching guillotines from seated position. It was a full session on this one choke which has left my throat ragged and pretty sore a week later. As is typical there was emphasis on being in control of your own position --- in this instance, if you fall onto your side to lock on the choke but it doesn't work, you have to get back up from there without losing the control that you've got. Spinning right round, sprawling out to maintain pressure before creeping the legs back under you again.
+
+Losing control is letting the person's head slip through so you can see their hairline. While you've still got a shoulder/arm on top of their neck then their head should go nowhere.
+
+Locking on the guillotine is binding the hands (by their ear/your sternum) and pushing the elbow of your non-headlocking-arm forward so the forearm lies down their spine. That's a pretty satisfying mental image for some reason so I think I will be less likely to forget it than other "wee details".
+
+2015-04-07
+
+William back to teach us about staying on top by not falling over. I know, right?
+
+One person attempting to invert their partner who is resting on hands and knees. The first time round we did this from the "outside", like knocking over a coffee table. Next we did the same thing from the "inside", because lo the same hands-and-knees position is used when someone is mounted on you. Knocking over the coffee table when you're lying underneath it? Well you know what I mean.
+
+So on reflection what did I do wrong here? I didn't fully realise the transfer of information from one scenario to the other. The value of half-guard (from the bottom) becomes much more apparent in that light. When attempting the takedown from the side being able to remove the leg on the falling side was really important. In half-guard you have control of one leg in the same way.
+
+Another alternative that worked to a lesser extent was turning the shoulders over. They're a lot easier to manhandle than hips and while a flexible person can manage to leave their hips square to the mat while their shoulders are twisted it apparently still worked. Also it seems being at their head end is better than their feet end: can attempt side control and mount without fighting through guard and so on.
+
+It strikes me now that turning the person by the shoulders like that also likely provides better control of their arms. You can bind up for an armlock (probably americana) before their shoulders are even on the mat.
+
+Sparring-wise I was initially more balanced but soon tired and ended up on bottom getting nowhere fast. Not much more to say than, for all the day's exercises, I was still doing the escape from mount all wrong.
+
