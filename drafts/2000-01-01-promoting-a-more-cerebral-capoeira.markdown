@@ -22,6 +22,9 @@ cardio training, flexibility. Take up classes in other things to learn
 other ways to move. Judo, gymnastics, Contact Improvisation (Contact
 Jam?), yoga and others.
 
+Better training is another question entirely and I'm [thinking about
+that one](/pages/capoeira-training-ideas.html) actively.
+
 # Getting more practise.
 
 Moving up to twice a week will be a big boost for those that can manage
