@@ -8,6 +8,20 @@ An attempt to be explicit about what I mean when I think of "progressive resista
 *    Energetic enough to make training valuable.
 *    Steady increase in energy.
 
+These are the filling for a generic class template. This is the bit that changes from session to session. The whole structure is something like this:
+
+1. Warm up. I think getting a consistent routine to begin will encourage people to turn up and start moving.
+2. Movement games. No direct strikes and no takedowns; instead we need emphasis on constant movement and fluidity.
+3. Techniques.
+4. Free games. Use any techniques you want.
+
+The following exercises loosely follow this progression:
+
+1. Attack in isolation. No defense so always successful.
+2. Defender provides simple resistance to "correct" attack.
+3. Defender increases resistance so attacks often fail.
+4. Complete freedom to integrate attacks/defence into game.
+
 # Meia lua de frente
 
 Most of this is done quite slowly: certainly not fast enough to damage on impact. The important details are distance, timing and (un)predictability.
