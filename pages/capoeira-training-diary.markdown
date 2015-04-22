@@ -798,3 +798,14 @@ First time I've been to a workshop with one apparent focus, in this case observa
 
 It was pretty taxing. One of the hardest parts was getting into the mindset of co-operative resistance, which is common at the BJJ class but quite unusual for capoeira --- in fact I think this was the first time I've seen it explicitly emphasised. It was clear that many people struggled getting in to this mindset because it is so different. Having Fantasma's students, Tim and SJ, demonstrate what was meant at the end of the Saturday class made it clear how wrong we had been getting it, even as we were working towards the right thing. As soon as you get into the situation of a roda then the history of everything you've learned takes over and over-rides the bit you're supposed to be working on.
 
+# 2015-04-07: Querido de Deus class, Edinburgh
+
+Senzala hosted a guest instructor for a few days and we attended his Tuesday class instead of running our own class. It was a really good class though as usual went on for way over the advertised time. Capoeira is just not the activity for people who have day jobs...
+
+Did some musical/vocal exercises, singing the same songs "normally", rhythmically (no emphasis on melody) and melodically (trying to get as much soul from the song as possible). Much throwing around of the words 'key', 'harmony', 'octave' and so on. Well I had a cold so I couldn't even sing to my normal low standard.
+
+Next some rabo de arraia switching left and right, with the defender escaping and being followed in the usual fashion. Key detail was the importance of foot placement as setup for what comes after the esquiva. If you put your foot forward then whether it is inside or outside dictates whether you next direction is into (attack) or away from your opponent. The other detail was one of the attacker letting the defender move as quickly as they want: if they esquiva one way then role in the other they can turn and "re-open" themselves to the kick they were trying to escape.
+
+This is one instance of the principle mentioned of the "triangle of vulnerability": the underbelly of the capoeirista when they have 3 limbs on the floor. Following where this vulnerable area is --- and predicting where it will appear --- is very valuable.
+
+
