@@ -147,3 +147,11 @@ I didn't spar anyone who was very hard or heavy at the end; cowardice or wisdom,
 
 The value of the hooks really became apparent in the last round of sparring as we continually disconnected and my partner tried to pass my guard from standing. The details of hooking feet and hands to control as much as possible was really powerful.
 
+# 2015-04-20: Passing Butterfly Guard
+
+Passing the guard with knee slide (passing the far leg through) or with a flip (inverting by throwing the far leg round your back). Also using arms wrapped over and round the legs to grab the feet and pull them out of play.
+
+Important details: pushing with the elbows/forearms and not the knees keeps your body tighter and leaves less handles to grip. Getting to the two-on-one-shin position is good because this is much easier to pass.
+
+Only time for one sparring session at the end but it went well: I didn't spend all the time being crushed on the bottom. In fact I was mostly in their guard, trying to pass. No submissions.
+
