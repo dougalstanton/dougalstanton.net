@@ -163,3 +163,5 @@ The training was organised differently. Most of the session we worked with the s
 
 From a selfish/lazy level I always want to try against someone who is obviously not bigger and stronger and more skilled than me to feed my own ego (or conversely to see if there's something grossly wrong).
 
+Much later a defence against the transition to X-guard came to mind but now I'm not sure if I'll ever get a chance to really test it. I wonder if it's possible to pass the shin but get a hook in their thigh --- so only half-attempting the pass. This will stop the person on bottom from hooking their arm under and pulling it up to their shoulder (because it's trapped under their thigh) and will prevent them bringing the half-passed leg back into action. From here passing the other leg might be easier without threat of transition to X-guard.
+
