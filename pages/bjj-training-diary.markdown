@@ -155,3 +155,11 @@ Important details: pushing with the elbows/forearms and not the knees keeps your
 
 Only time for one sparring session at the end but it went well: I didn't spend all the time being crushed on the bottom. In fact I was mostly in their guard, trying to pass. No submissions.
 
+# 2015-04-23: Butterfly to X-Guard
+
+Letting the person in your guard get one leg over yours so you can hook it up with your arm and re-insert the passed foot back in above the remaining hook --- giving you two hooks on the farther leg and the near leg cradled on your shoulder.
+
+The training was organised differently. Most of the session we worked with the same person. It was exhausting and there wasn't any variety of style from each round to the next. I had no sense that I was progressing because the resistance was always at the same level of my ability as my ability increased. From the outside it seemed that I progressed a lot as both Hoss and William mentioned it independently. It seemed to have worked in my case but whether it worked universally is another question.
+
+From a selfish/lazy level I always want to try against someone who is obviously not bigger and stronger and more skilled than me to feed my own ego (or conversely to see if there's something grossly wrong).
+
