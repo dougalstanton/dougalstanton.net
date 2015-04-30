@@ -808,4 +808,17 @@ Next some rabo de arraia switching left and right, with the defender escaping an
 
 This is one instance of the principle mentioned of the "triangle of vulnerability": the underbelly of the capoeirista when they have 3 limbs on the floor. Following where this vulnerable area is --- and predicting where it will appear --- is very valuable.
 
+# 2015-04-28: Teaching _rabo de arraia_ and _esquiva_
+
+First attempt at taking a class with an actual plan, no matter how roughly outlined. I didn't have a chance to read over what I had written so was going on memory and the feel of things.
+
+There were only four students which limited the amount of variety and the mix of levels when people trained with different partners. I wasn't sure if I had enough to fill out the time and I wasn't spending much time on explanation so was allowing each part to last longer than it should. I was aiming for 3 minutes but I probably overshot at times --- and 3 minutes in each role with two partners is 12 minutes for the same thing, which in hindsight is a bit dull.
+
+In future I would bring that down to 90 seconds but I would have to emphasise the importance of not wasting time. And I would need a way of timekeeping to make sure I'm sticking to the rules.
+
+The progression of resistance worked reasonably well though I suspect there wasn't enough explanation initially. Since nobody was a beginner then getting people to do something really simple takes work. I should have explained what people were looking for. The first phase was a "blind" ginga from the defender and a simple rabo de arraia and reset from the attacker. What I should have said was to look for **the first moment the attacker starts the kick** and **the best moment in the defender's ginga to kick** which would have encouraged more active mental participation.
+
+This lesson generally went for each step I think. Slightly more purposeful explanation might have got people to focus; and shorter intervals would have reduced the boredom kicking in.
+
+In summary I need to work on keeping people's attention and giving them a mental task to achieve is the best way to do that. So I will run through everything I've written so far and make sure I've got "thinking points" or "mental tasks" for everybody.
 
