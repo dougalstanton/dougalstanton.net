@@ -822,3 +822,7 @@ This lesson generally went for each step I think. Slightly more purposeful expla
 
 In summary I need to work on keeping people's attention and giving them a mental task to achieve is the best way to do that. So I will run through everything I've written so far and make sure I've got "thinking points" or "mental tasks" for everybody.
 
+# 2015-05-05 
+
+A ragtag session including a small sequence transitioning from martelo do chao to rabo de arraia. Also a Mestre Camaleao special for defending the rabo de arraia: step into the non-kicking side and reach the hand over to the grab and lift the hip of the kicking side, to flip the person over. It wasn't greatly successful but we did it full speed for about 5 minutes so there wasn't much opportunity to improve it.
+
