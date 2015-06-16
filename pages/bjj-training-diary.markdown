@@ -165,3 +165,12 @@ From a selfish/lazy level I always want to try against someone who is obviously 
 
 Much later a defence against the transition to X-guard came to mind but now I'm not sure if I'll ever get a chance to really test it. I wonder if it's possible to pass the shin but get a hook in their thigh --- so only half-attempting the pass. This will stop the person on bottom from hooking their arm under and pulling it up to their shoulder (because it's trapped under their thigh) and will prevent them bringing the half-passed leg back into action. From here passing the other leg might be easier without threat of transition to X-guard.
 
+# 2015-06-15 Bridging and Framing
+
+Escaping from mount using **bridging** to establish a **frame**, followed by escape to half guard etc.
+
+Key bridging details include (i) rolling on the shoulder/ear rather than top of head (ii) moving feet as close in to body as possible and keep lifting/driving.
+
+We started from side control with **head and arm control** which was good because I've never been sure how that works properly. I mean I'm still at a loss when it comes to doing it properly but at least I'm aware of which arm (and which head) should be controlled.
+
+
