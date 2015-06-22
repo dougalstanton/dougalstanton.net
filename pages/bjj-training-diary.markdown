@@ -173,4 +173,6 @@ Key bridging details include (i) rolling on the shoulder/ear rather than top of 
 
 We started from side control with **head and arm control** which was good because I've never been sure how that works properly. I mean I'm still at a loss when it comes to doing it properly but at least I'm aware of which arm (and which head) should be controlled.
 
+# 2015-06-20 Playtime
 
+First Saturday sparring session. In the end I realised, somehow, that I'd basically not eaten properly before I came out so no wonder I was getting a headache and not really controlling myself properly. Got some good practise at preventing guard passes.
