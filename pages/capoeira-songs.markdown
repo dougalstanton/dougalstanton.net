@@ -129,3 +129,16 @@ Chorus _in italics_
 |
 | _E besouro_
 
+# [Eu n&atilde;o vou remar contra a mar&eacute;](https://www.youtube.com/watch?v=XnG97-Er3eE)
+
+| Eu n&atilde;o vou remar contra a mar&eacute;
+| _Eu n&atilde;o vou remar contra a mar&eacute;_
+|
+| Meu barco virou
+| _Vira_
+|
+| Meu remo quebrou
+| _Quebra_
+|
+| No meio no mar
+| _N&atilde;o posso nadar_
