@@ -826,3 +826,10 @@ In summary I need to work on keeping people's attention and giving them a mental
 
 A ragtag session including a small sequence transitioning from martelo do chao to rabo de arraia. Also a Mestre Camaleao special for defending the rabo de arraia: step into the non-kicking side and reach the hand over to the grab and lift the hip of the kicking side, to flip the person over. It wasn't greatly successful but we did it full speed for about 5 minutes so there wasn't much opportunity to improve it.
 
+# 2015-10-16/17/18: Marrom workshop, Edinburgh
+
+The whole weekend was concentrating on "base" and the enter/exit  flow: having a good solid esquiva/negativa (however you want to call it) and effective rooting to the floor in order to move when needed.
+
+The only move that I rarely attempt but which is part of Marrom and Dion's repertoire and that was used frequently was the _escalamente_ (spelling made up entirely).
+
+
