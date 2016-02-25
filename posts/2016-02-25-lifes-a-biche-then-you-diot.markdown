@@ -3,7 +3,7 @@ title: Life's a Biche and then you Diot
 tags: skiing
 ---
 
-A week skiing in La 3 Vallees, based in La Tania. My second skiing holiday, after about two years of absence. We visited [Xcape] at Braehead for an afternoon's refreshing the mind and the limbs. I slowly worked my way out of snowplough turns and got a bit more confidence to say "let's go".
+A week skiing in Les 3 Vallees, based in La Tania. My second skiing holiday, after about two years of absence. We visited [Xcape] at Braehead for an afternoon's refreshing the mind and the limbs. I slowly worked my way out of snowplough turns and got a bit more confidence to say "let's go".
 
 [Xcape]: <https://www.snowfactor.com/> "Indoor ski centre in Glasgow"
 
@@ -22,4 +22,4 @@ For the rest of the week I went out often with Helen and her parents and their p
 
 It's not all fast skis and loose bindings, of course. Mountain diots, pot au feu, genepi, creme de violette --- all there for the taking. And a day of skiing really gives you an appetite. The evenings in the chalet were nice and the others staying there were all friendly and chatty, with interesting experiences. I think we all got on really well.
 
-I one short week my skiing came on a huge leap and I had a great time. I'm now eager to go skiing again, I can see the problem!
+In one short week my skiing came on a huge leap and I had a great time. I'm now eager to go skiing again, the addiction is forming!
