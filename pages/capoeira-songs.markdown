@@ -142,3 +142,31 @@ Chorus _in italics_
 |
 | No meio no mar
 | _N&atilde;o posso nadar_
+
+# Saci Pererê
+
+A song about the [Brazilian folklore character](https://en.wikipedia.org/wiki/Saci_\(Brazilian_folklore\)).
+
+| Eu vim da Bahia
+| 
+| _Eu vim da Bahia_
+| 
+| Para tirar cipó
+| 
+| _Para tirar cipó_
+| 
+| Lá vi um neguinho
+| 
+| _Lá vi um neguinho_
+| 
+| De uma perna só
+| 
+| _De uma perna só_
+| 
+| E o Saci Pererê
+| 
+| _Pererê, Pererê_
+| 
+| E o Saci Pererê
+| 
+| _Pererê, Pererê_
