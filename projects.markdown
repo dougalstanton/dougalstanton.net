@@ -34,3 +34,7 @@ some hobby projects.
 I still have a number of projects which were online before but for now
 just live on my computer, waiting for the disk to catastrophically
 crash. I should probably do something about that.
+
+# Music
+
+*  [Dark Star song lyrics](/pages/dark-star-songs.html) for the B-sides that I have been able to decipher.
