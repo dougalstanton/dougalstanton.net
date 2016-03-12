@@ -176,3 +176,25 @@ We started from side control with **head and arm control** which was good becaus
 # 2015-06-20 Playtime
 
 First Saturday sparring session. In the end I realised, somehow, that I'd basically not eaten properly before I came out so no wonder I was getting a headache and not really controlling myself properly. Got some good practise at preventing guard passes.
+
+# 2016-03-10 Submissions from Guard
+
+This session brought together all the submissions from guard that I had done here and there over the last year and finally made some sense of them:
+
+* arm bar
+* triangle
+* omoplata
+* guillotine
+* kimura
+* hip bump sweep
+
+I had done all these before and the class didn't focus on any in detail. But seeing them all in their proper context really helped --- when to attempt them, how to enter them (and how to defend them), how to counter the expected defences and so on.
+
+The first three submissions need the person's posture to be broken down in your guard.
+Starting with the **triangle** you need to get your lower leg over the back of their neck and they'll be trying to sit up as tall as possible. If you manage to break down their posture they may try looping their trapped arm around the nearest leg to free space between their neck and shoulder. This opens up the **omoplata**. Alternatively they may try to work their outside arm through to create a frame. This invites switching to attack with the **arm bar**.
+
+If the person manages to posture up at any point then you can attempt the next three moves.
+You can try popping up for the **guillotine**, dropping down to the side their head is on. If their head is not accessible you can use the backwards lean to lead into the **hip bump sweep**. If they post with an arm to the sweeping side then grab the **kimura** and break their posture while hipping out to control them.
+
+The two sets of moves, from high and low posture, feed really nicely into each other which is great and makes them easier to remember and to switch tactics if things aren't working well.
+
