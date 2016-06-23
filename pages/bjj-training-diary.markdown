@@ -198,3 +198,19 @@ You can try popping up for the **guillotine**, dropping down to the side their h
 
 The two sets of moves, from high and low posture, feed really nicely into each other which is great and makes them easier to remember and to switch tactics if things aren't working well.
 
+# 2016-06-13--17 Jiujitsu Jamboree
+
+A week of learning to move and escape like a jiujitsu person. Truthfully it was a week of learning to bridge and spin onto your knees without using your hands on the ground. We didn't do any work on submissions the whole week. This opened up the floor for exploring the positions in relative safety. When we finally had a chance to roll with submissions I didn't feel pressured to leap on anything that presented itself because it just felt better to move and see what happened.
+
+Key lessons from the week:
+
+* **Bridge to frame.** It's pretty obvious but it bears repeating. (1) Bridge to get a frame in when under high mount. (2) Bridge to get a frame in when under side control.
+* **Frame to defend.** (1) If someone is in low mount, frame to keep them there. (2) If someone is in low side control, frame to keep them there.
+* **Roll on the shoulder.** (1) Pre-empt back mount by rolling to half guard (using frames!). (2) Pre-empt side control by rolling to turtle (using frames!).
+* **Control the head.** (1) Push the head to the passing side when playing guard. (1.1) Push the head up or down when playing seated guard. (2) Bridge into their head (think ear not neck) when escaping side control. (3) Push the head to the non-bridging side when on top (cross-face).
+
+There are some subtler movements when it comes to playing guard:
+
+* **Double-under pass.** Get heavy by planking. Shoulder walk. Transition to butterfly guard.
+* **Single leg pass.** Lift elbow holding leg and butt-scoot (butt-leap?).
+* **Leg-squeeze pass.** Spin and extract while framing on their head.
