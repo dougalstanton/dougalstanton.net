@@ -828,8 +828,19 @@ A ragtag session including a small sequence transitioning from martelo do chao t
 
 # 2015-10-16/17/18: Marrom workshop, Edinburgh
 
-The whole weekend was concentrating on "base" and the enter/exit  flow: having a good solid esquiva/negativa (however you want to call it) and effective rooting to the floor in order to move when needed.
+The whole weekend was concentrating on "base" and the enter/exit flow: having a good solid esquiva/negativa (however you want to call it) and effective rooting to the floor in order to move when needed.
 
 The only move that I rarely attempt but which is part of Marrom and Dion's repertoire and that was used frequently was the _escalamente_ (spelling made up entirely).
 
 
+# 2016-07-05
+
+After watching a bunch of Camaleao I was keen to try out some tesoura de frente; he seemed to do a lot after faking a martelo do chao which I thought was a great entry because it's something I do a lot but never have anywhere to go from there.
+
+In the end we did an evening of takedowns: vingativa, tesoura de costas and tesoura de frente. Despite my original intentions the vingative/tesoura de costas pair was more interesting because it seems they are intimately related. They have a symmetry with each other.
+
+The "base" position is the front person perched on the lap of the other, both squatting slightly, like "stacked" figurines. The control of the other person comes from the control of their hips which itself only comes from direct contact. The person in the back makes a minor adjustment and uses their shoulder and upper back to execute the vingativa. The person in the front swings the far leg round the back and rotates backwards for the tesoura.
+
+The fundamental position of the hip connection is what to aim for when stepping in to perform one or other takedown. From there the minor positioning of feet and hands and head will follow. In general, the person performing the takedown wants to control the leg furthest from them in some way. In vingativa trying to stand with your own feet "outside" your opponent's feet. In tesoura, to reach far enough with the back leg that you can hook their own leg.
+
+The tesoura de frente also has symmetry but with itself. Two opponents facing each other but offset so that one inner thigh touches the same inner thigh of their opponent when in base. Either person could go for the tesoura from here: the touching leg is a clamp to hold the leg in place and the other foot comes in behind (heel to heel) and sweeps backwards. (Alternately the outside leg can stay fixed as the fulcrum in a lever system, with the body weight driving into the thigh to move the opposing leg backwards and down.)
