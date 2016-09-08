@@ -844,3 +844,22 @@ The "base" position is the front person perched on the lap of the other, both sq
 The fundamental position of the hip connection is what to aim for when stepping in to perform one or other takedown. From there the minor positioning of feet and hands and head will follow. In general, the person performing the takedown wants to control the leg furthest from them in some way. In vingativa trying to stand with your own feet "outside" your opponent's feet. In tesoura, to reach far enough with the back leg that you can hook their own leg.
 
 The tesoura de frente also has symmetry but with itself. Two opponents facing each other but offset so that one inner thigh touches the same inner thigh of their opponent when in base. Either person could go for the tesoura from here: the touching leg is a clamp to hold the leg in place and the other foot comes in behind (heel to heel) and sweeps backwards. (Alternately the outside leg can stay fixed as the fulcrum in a lever system, with the body weight driving into the thigh to move the opposing leg backwards and down.)
+
+# 2016-09-02 Mandinga, Closeness
+
+**Attacking from Queda de Quatro**. Rasteira from the ground. Defender is moving backwards towards attacker, who must make the right distance to get a sweep.
+
+1. Defender in downward-dog position walks backwards towards attacker. Attacker in QdQ tries to sweep the stepping foot to the side.
+2. Defender tries rabo-de-arraia/passagem around the attacker. Attacker as above, sweeping the stepping foot from _queda de quatro_.
+
+**Clothes peg game**. Defender has a clothes peg pinned to the back of their shirt. Attacker's job is to steal the clothes peg. Two variations:
+
+1. The defender in _queda de quatro_, the attacker standing. The defender can move, _rasteira_ and show _chapa_ to interfere with the attacker's progress. The attacker must "pass the guard", to get behind the defender and take the peg.
+2. A normal training game, all positions and moves allowed for both defender and attacker.
+
+# 2016-09-06 Passagem de tesoura
+
+**Entries to passagem de tesoura**. Go feet first.
+
+1. With the head up, extend front foot in _negativa de frente_ then _role_ to pass through.
+2. Perform the _role_ first then pass the lead foot through backwards.
