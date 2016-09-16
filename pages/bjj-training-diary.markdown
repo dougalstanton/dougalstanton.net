@@ -214,3 +214,14 @@ There are some subtler movements when it comes to playing guard:
 * **Double-under pass.** Get heavy by planking. Shoulder walk. Transition to butterfly guard.
 * **Single leg pass.** Lift elbow holding leg and butt-scoot (butt-leap?).
 * **Leg-squeeze pass.** Spin and extract while framing on their head.
+
+# 2016-09-16 Omoplata
+
+Defending the omoplata involves rotating in one of four directions. Sometimes these are escapes and sometimes these gain the dominant position.
+
+* **Forward: roll.** Bend the head to the opposite side that is being attacked and roll over the shoulder. You might have to strip their grip from your waist. It should be possible to hook on with the near leg as you roll to spin round and put the attacker in your guard.
+* **Backward: posture up.** Come upright. Try to place nearside knee on attacker's hip to hold them down while you pull away.
+* **Out: spin in place.** Similar to a forward roll but staying tight with your attacker and turning. Hard to regain dominance from here.
+* **In: under attacker.** Push into attacker then pull them over you as you duck underneath. Must be done forcibly so that you don't just insert yourself underneath your attacker.
+ 
+Attack from the omoplata is best done before the attacker has postured up. Bring the nearside knee and elbow together, trapping their leg between your two limbs. That knee will be in a controlling position on their hip. Use this knee for a knee slide across their belly, or step over/walk around with the other leg while controlling. Multiple ways to end up in side control.
