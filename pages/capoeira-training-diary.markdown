@@ -863,3 +863,10 @@ The tesoura de frente also has symmetry but with itself. Two opponents facing ea
 
 1. With the head up, extend front foot in _negativa de frente_ then _role_ to pass through.
 2. Perform the _role_ first then pass the lead foot through backwards.
+
+# 2016-09-20 Siobhan's tesoura-to-vingativa
+
+    open meia lua       /= cabecada to face
+    queda de rins       \
+    tesoura low-to-high / pass through
+                        \ spin into vingativa
