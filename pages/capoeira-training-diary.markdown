@@ -870,3 +870,29 @@ The tesoura de frente also has symmetry but with itself. Two opponents facing ea
     queda de rins       \
     tesoura low-to-high / pass through
                         \ spin into vingativa
+
+# 2016-10-21--23 Mestre Marrom workshop, Scotland
+
+## Friday night, closed session in Edinburgh
+
+Started with the usual sequences from one end of the hall to the other. The warmup was okay but it got quite dull before it finished. Naturally I can tell you nothing now from what we did at that point; none of it stayed in my head, if it was even designed to.
+
+Moved onto a kind of "contact improvisation"--inspired session involving balance and closeness without contact. Slowly adding in interrupting the other person's direction/intention. Next an object was added on the ground to maintain control of, in a turn-by-turn style, by moving in and out without attacks. Marrom was emphasising having time to think at this point; I thought he had finally changed, everything was looking so bright. The rest of the weekend was a resounding swing in the other direction.
+
+He said something suitably mystical and metaphorical at this point which I'd initially taken to be quite positive: that he was taking shade under his own tree and that we each had to grown our own tree. I assumed this was a positive reflection on learning and experience. Later experience made me change my opinion.
+
+## Saturday, Sunday, open sessions in Glasgow
+
+Even longer lines of calisthenics than the Friday, lasting even longer. With the extra bonus that the demonstration for the next sequence was already partially done by the time the first one was complete. It's pretty clear by this point that these are just for killing time: you don't demonstrate something to a person when their back is turned if you are interested in them getting it right.
+
+Given the rate at which people were successfully pulling off the sequences I'd say he was teaching to less than 10% of the class. I was not in that lucky fraction. At one point the 90+% who didn't get it were accused of over-complicating it. Aye right mate! Having to invent it out of whole cloth is more accurate. Any fool could have seen it was a room full of people each trying to get cues off the other and failing. It's not like we all thought, "nah, this is too simple, I should add an extra _corta capim_ and a _bananeira_ in to make it worth my while".
+
+It was definitely at this point I started to re-evaluate what the tree metaphor --- which he reiterated --- actually meant. _He_ has a tree but we have to get our own trees to shade under. He has no interest in sharing his tree. He is in his early fifties so I'd guess has 30 years of capoeira knowledge. We also have to put in those 30 years to get that knowledge too.
+
+At this point on both days there were some pair exercises though because we'd been training for about two hours at this point nobody was in any fit state to take anything in. I can't remember a single movement from this period on either day. I just remember a series of faces that looked terrible --- and every new partner said "sorry what are we doing?" or "I wasn't paying attention" or "I'm going to pass out". You can imagine how much effective learning took place under these conditions.
+
+The Saturday training roda was reasonably short but unhelpful in the way that most rodas are: an opportunity to chill off, stiffen up and maybe get kicked in the face. The Sunday roda was even longer and since we had not stopped for a break I was long past the point of being "operational".
+
+I realised one thing that I have been aware of almost since I started capoeira but was unable to really put into words before now. In a game like football the roles of referee, the opposition and your own coach are performed by three separate entities. In capoeira, particularly learning capoeira, two or even three of these can be performed by one person. Your coach wants you to do the right thing, the opposition wants you to do the wrong thing and the referee is there to adjudicate. It is impossible that these roles can be performed by the same person at the same time without risk of ignoring the referee, taking advice from the opposition or snubbing your coach.
+
+He briefly took questions from the floor, and answered honestly that Joao Grande keeps remembering ("remembering"?) new rules and ways of doing things. Frankly I look around the roda and wonder where the vadiacao went. All I see is ossified formality and anxiety about breaking unexplained rules. Geoff Pullum talks about "nervous cluelessness". Either there is an extra layer underneath that explains all the oddities, a general unified theory of capoeira, or there is just people making up rules and justifying their own ignorance with authority. I await the GUT of Capoeira.
