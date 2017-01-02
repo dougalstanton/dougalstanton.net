@@ -10,6 +10,20 @@ tags:
 EOF
 }
 
+function best_editor
+{
+    if type macdown &> /dev/null
+    then
+	macdown $@
+    elif type mvim &> /dev/null
+    then
+	mvim +/tags $@
+    else
+	vim $@
+    fi
+}
+    
+
 if [ $# -gt 0 ]
 then
     TITLE=$@
@@ -20,7 +34,5 @@ then
     then
         makepost "${TITLE}" "${FILENAME}"
     fi
-    # Open editor at text 'tags' ready to insert a tag
-    # mvim "+call VimWriteRoom()" +/tags ${FILENAME}
-    mvim +/tags ${FILENAME}
+    best_editor ${FILENAME}
 fi
