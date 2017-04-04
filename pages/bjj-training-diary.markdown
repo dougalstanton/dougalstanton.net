@@ -237,3 +237,10 @@ We finally moved onto the sequence, I partnered up with a fellow called David an
 I stayed on for some rolling after the class. I tried to get a sense of how experienced people were though there was lots of variation in aggressiveness too. One guy destroyed me quickly and repeatedly from standing passes while others played a more steady ground game, going to full guard or playing deep half --- which I was more able to defend. (Ironically we've been doing a lot of half guard since I returned home.)
 
 I suppose the answer to the question "what will the beginners remember or be able to do?" is somewhat academic because none stayed on to roll after the class had finished and it wasn't made clear that they could or should. I think I've been spoiled and didn't know it.
+
+# 2017-04-03 Butterfly guard basics
+
+I've not been training much due to a succession of injuries but I'm still attending the occasional class. I realise I should be writing down what I see so that it doesn't disappear. I was watching the mistakes people made, trying to learn from their mistakes instead of my own.
+
+* Passing over the top, one leg at a time. The principal mistake was not staying tight. If they were not chest-to-chest at all times the pass can be thwarted.
+* Sitting up when flattened out. (1) Not seeing that they weren't being flattened, they were just lying down. There was no pressure other than the person's head preventing them from sitting up without further work. (2) Not using the forearm under the throat to create space between their opponent's chest and their own. Too many people were clawing for the double-unders without success. (3) Not pulling the weight onto their hips, instead just trying to lift and push in one movement.
